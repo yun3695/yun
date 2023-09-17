@@ -2040,32 +2040,6 @@
   
       {"name": "熊大直解", "url": "https://www.8090g.cn/?url=" },
            {"name": "熊🐻", "type":1,"url": "http://119.91.123.253:1234/Api/cs.php?url=" },
-  {
-      "name": "-爱酷-",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
 
       {"name":"8090","url":"https://www.8090.la/8090/?url="},
        {"name":"-m3u8-","type":0,"url":"https://jx.m3u8.pw/?url="},
@@ -2189,18 +2163,7 @@
         }
       }
     },
-    {
-      "name": "比u比u🥭",
-      "type": 1,
-      "url": "https://jxjson.cf/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "mgtv",
-          "YuMi-vip"
-        ]
-      }
-    },
+  
 {"name":"星空","type":0,"url":"https://jiexi.11mc.com/jiexi/?url="},
 {"name":"tx腾","type":1,"url":"https://dx.maclsj.com/blue/json.php?url="},
 {"name":"jx全","type":0,"url":"http://jx.jlgw.top/?url="},
