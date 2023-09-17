@@ -1891,37 +1891,41 @@
       "filterable": 1,
       "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar"
     },
+    
+    
     {
-      "key": "SPQQ",
-      "name": "🐧企鹅┃[官]",
+      "key": "Qtv",
+      "name": "🐧腾腾┃视频",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 0
     },
     {
-	  "key": "SPIQY",
-	  "name":"🥝奇异┃[SP]",
-	  "type": 3,
-	  "api": "csp_Itv",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1
-	},
-    
-    {
-      "key": "MGT",
-      "name": "🥭芒芒┃[官]",
+      "key": "Itv",
+      "name": "🥝奇艺┃视频",
+      "type": 3,
+      "api": "csp_Itv",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+  
+        {
+      "key": "Mtv",
+      "name": "🥭芒芒┃视频",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 0
+ 
     },
-  
-    
-    {"key":"易看资源","name":"🔥易看┃资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+   
     {
         "key": "zy_新浪资源",
         "name": "🏄🏻新浪┃资源",
@@ -1958,10 +1962,39 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
     },
-     {"key":"drpy_js_腾云驾雾","name":"🔥官源┃腾讯[js]","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/腾讯.js"},
-     {"key":"drpy_js_百忙无果","name":"🔥官源┃芒果[js]","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/百忙无果.js"},
-     {"key":"drpy_js_奇珍异兽","name":"🔥官源┃爱奇艺[js]","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/奇珍异兽.js"},
-     {"key":"drpy_js_优酷","name":"🔥官源┃优酷[js]","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/优酷.js"},
+ {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🔥官源┃奇艺[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "🔥官源┃优酷[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "🔥官源┃腾讯[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/腾云驾雾.js"
+    },
+ 
+ {
+      "key": "js_芒果",
+      "name": "🥭官源┃芒果[js]",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/baimang.js"
+    },
+  
     {"key":"七夜","name":"🔥七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
    
      
@@ -2526,9 +2559,7 @@
     ],
   "wallpaper": "https://yydsys.top/bg.php","warningText":"使用本接口前，请务必刷新",
     "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;EDAB3976B24E102336354D445026329F",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83",
-    "spider":"https://gitee.com/xiongdada3695/jar/raw/main/YSC.jar"
-    
-
+    "spider":  "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ed5d521ad71063b99b06e9ad4c7f9bca"
+ 
      
 }
