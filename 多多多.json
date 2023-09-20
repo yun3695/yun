@@ -153,7 +153,17 @@
        "style":{"type":"rect","ratio":1.59}
         },
         
-  
+         {
+      "key": "蚂蚁",
+      "name": "🐜蚂蚁┃直连",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rzys.xyz"
+    },
+    
        {
       "key": "365",
       "name": "🌷年年┃APP",
@@ -753,6 +763,18 @@
          "ext":"https://weixine.net/sub/xiaoxiao.json",
          "jar":"https://gitee.com/xiongdada3695/jar/raw/main/YSCC.jar"},
       
+     
+        {"key":"往往影视",
+         "name":"💐往往┃影视",
+         "type":3,
+         "api":"csp_XBPQ",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+              "jar":"http://xhww.fun:63/小米/小暴脾气7.jar",
+         "ext":"https://oftens.top/oftensshow/{cateId}-{area}-------{catePg}---{year}.html"},
+     
+    
     
      {
       "key": "csp_XYQHiker_奇趣影视",
@@ -2022,6 +2044,7 @@
         "api": "csp_XBPQ",
         "ext": {"分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}
          },
+         {"key":"drpy_js_好趣网","name":"🤹🏻‍好趣┃直播","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/好趣网.js"},
      
     {
       "key": "push_agent",
