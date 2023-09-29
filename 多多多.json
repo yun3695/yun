@@ -316,7 +316,6 @@
        "name":"⛵腾讯┃PHP",
        "type":1,
        "api":"http://tvbox.top/qq.php/provide/vod/",
-       "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=",
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
@@ -335,20 +334,7 @@
     },
     
     
-   {
-      "key": "csp_腾讯",
-      "name": "🌄腾讯┃官网",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
-      "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=",
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
-    },
+  
     {
         "key": "rjumao",
         "name": "🐱热剧┃猫影",
@@ -716,16 +702,21 @@
     "searchable": 1,
     "quickSearch": 1
 },
-{
-	"key": "qq",
-	"name": "🎥腾讯┃php",
-	"type": 1,
-	"api": "http://tvbox-1-g5221611.deta.app/vod/qq",
-	"searchable": 1,
-	"quickSearch": 1
-},
-
-{
+   
+    {
+      "key": "csp_腾讯",
+      "name": "🌄腾讯┃app",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]},
+    
+        {
             "key": "MGT",
             "name": "🍊芒果┃SP",
             "type": 3,
