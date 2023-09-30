@@ -67,9 +67,26 @@
      "ext": "http://cms.jialiangos.com/api.php/app/"
       },
 
-       
-        
-        {
+       {"key":"Mino",
+        "name":"👻Mino┃App",
+        "type":3,
+        "api":"csp_Appto",
+        "searchable":1,
+        "quickSearch":1,
+        "changeable":1,
+        "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+        }, 
+        {"key":"橘子",
+         "name":"🍊橘子┃直连",
+         "type":3,
+         "api":"csp_Appto",
+         "searchable":1,
+         "quickSearch":1,
+         "changeable":1,
+         "ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
+         }, 
+         
+          {
             "key": "csp_aidi",
             "name": "🤟爱迪┃高清",
             "type": 3,
@@ -1750,7 +1767,53 @@
       "分类值":"1&2&3&4",
       "分类url":"https://jinman2.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"   
     }},
-     
+     {
+      "key": "小苹果影视",
+      "name": "🍎小苹果┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"http://xhww.fun:63/小米/小暴脾气7.jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"1&2&3&4",
+      "分类url":"http://www.xpgys.com/show/{cateId}-{area}-------{catePg}---{year}.html"   
+    }},
+    {
+      "key": "0855影视",
+      "name": "🎱0855┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫&伦理&美图",
+      "分类值":"vod&tv&zongyi&dongman&tp&mt",
+      "分类url":"https://www.085517.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"   
+    }},
+       
+         {
+      "key": "苹果电影网",
+      "name": "🍎苹果┃电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"http://xhww.fun:63/小米/小暴脾气7.jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"1&2&3&4",
+      "分类url":"https://www.pg8090.com/show/{cateId}-{area}-------{carePg}---{year}.html"   
+    }},
+      {
+      "key": "雪糕TV",
+      "name": "⛄雪糕┃TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"http://xhww.fun:63/小米/小暴脾气7.jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"dianying&dianshiju&zongyi&dongman*",
+      "分类url":"https://www.xgitv.com/vshow/{cateId}--------{catePg}---{year}.html"   
+    }},
+  
+    
     {
 	  "key": "小黄人影视",  
 	  "name": "👴黄人┃影视", 
@@ -1760,6 +1823,27 @@
 	  "quickSearch": 1,
 	  "filterable": 0
 	 },
+	
+	   
+	
+    {
+	  "key": "速看100TV",  
+	  "name": "🚀速看┃100", 
+	  "type": 1,
+	  "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod",   
+	  "searchable": 1,  
+	  "quickSearch": 1,
+	  "filterable": 0
+	 },
+	{
+            "key": "极速资源",
+            "name": "🚄极速┃资源",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+            "playUrl": "https://k.playerla.com/?url="
+        },
+     
+        
          {
             "key": "明地",
             "name": "🔥明地┃官采",
@@ -2137,20 +2221,17 @@
         "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
        },
         
-{
-      "key": "Zhaozy",
-      "name": "🌾找资源┃4 k",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-    "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;6fb0a205b857f35e165a5f8cb2f8056d"
-  },
 
-  
+     
+     {"key":"Zhaozy",
+      "name":"🐺资源┃4 k",
+      "type":3,
+      "api":"csp_Zhaozy",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fantaiying$$$qqq111"}, 
+
 
       {
         "key":"csp_007",
