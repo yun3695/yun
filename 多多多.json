@@ -134,20 +134,17 @@
       "ext": "http://dytt996.com/api.php/app/"
     },
     
-    
-    {
-      "key": "csp_Czsapp",
-      "name": "🌈厂长┃资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://cz01.me/",
-      "filterable": 1,
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-    },
- 
+      {"key":"Czsapp",
+       "name":"🍟厂长┃直连",
+       "type":3,
+       "api":"csp_Czsapp",
+       "playerType":2,
+       "searchable":1,
+       "quickSearch":1,
+       "changeable":1,
+       "ext": "https://www.cz01.pro/"
+        },
+
  
                 
     
@@ -246,7 +243,17 @@
          "ext":"https://www.ysgc1.cc/"
           },
 
-
+             
+       {"key":"探探",
+        "name":"🕵影探┃APP",
+        "type":3,
+        "playerType":"1",
+        "api":"csp_AppYsV2",
+        "searchable":1,
+        "quickSearch":1,
+        "changeable":1,
+        "ext":"http://vipcms.lyyytv.cn:80/api.php/app/"
+        },
        
      
        {
@@ -1034,7 +1041,18 @@
           "jar":"https://gitee.com/xiongdada3695/jar/raw/main/YSCC.jar",
        "ext":"https://gitee.com/xiongdada3695/xbpq/raw/master/农民影视.json"},
         
-   
+       {"key":"aoao",
+        "name":"📡嗷嗷┃J S",
+        "type":3,
+        "api":"https://jihulab.com/ajin0913/JTV/-/raw/master/lib/drpy2.min.js",
+        "ext":"https://jihulab.com/ajin0913/JTV/-/raw/master/js/aoao.js"
+         },
+         {"key":"热剧猫",
+          "name":"🐱热剧┃猫影",
+          "type":3,
+          "api":"https://jihulab.com/ajin0913/JTV/-/raw/master/lib/drpy2.min.js",
+          "ext":"https://jihulab.com/ajin0913/JTV/-/raw/master/js/%E7%83%AD%E5%89%A7%E7%8C%AB.js"
+           },
       
         {
       "key": "笑笑影视",
