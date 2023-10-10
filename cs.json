@@ -9,10 +9,11 @@
     ".ff",
     ".bf"
   ],
+
   "sites": [
         {
       "key": "csp_xBPQ_香蕉超清",
-      "name": "🏆蜜桃淫荡",
+      "name": "🏆香蕉超清",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -20,6 +21,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json"
     },
+ 
     {
        "key": "csp_xBPQ_香蕉国产",
        "name": "🏆香蕉国产",
@@ -50,17 +52,27 @@
         "filterable": 0,    
         "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉废柴网.json"
       },
-   
       {
-        "key": "csp_xBPQ_香蕉搜索",
-        "name": "🏆香蕉搜索",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-          "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉搜索.json"},
-        {
+      "key": "csp_香蕉资源",
+      "name": "🏆香蕉中文",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	 "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉资源.json"
+    },
+     {
+      "key": "csp_香蕉视频",
+      "name": "🏆香蕉视频",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	 "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉视频.json"
+    },
+      {
         "key": "csp_xBPQ_香蕉直播",
         "name": "🏆香蕉直播",
         "type": 3,
@@ -70,6 +82,27 @@
         "filterable": 0,
        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉实时直播.json"
       },
+      
+        {
+        "key": "csp_xBPQ_香蕉搜索",
+        "name": "🏆麻豆女优",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+          "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉搜索.json"},
+          
+          {
+      "key": "csp_麻豆映画",
+      "name": "🏆麻豆映画",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	 "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/麻豆映画.json"
+        },
       
      {
       "key":"*皇冠资源",
@@ -391,6 +424,15 @@
       "quickSearch": 1,
       "filterable": 0
        },
+           {
+      "key": "zp157",
+      "name": "🏆久草资源",
+      "type": 0,
+      "api": "http://jcspcj8.com/api?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
        
        {
       "key": "csp__色花堂",
