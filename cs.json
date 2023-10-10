@@ -82,7 +82,16 @@
         "filterable": 0,
        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉实时直播.json"
       },
-      
+        {"key":"csp_xBPQ_天天直播",
+          "name":"🏆天天直播",
+          "type":3,
+          "api":"csp_xBPQ",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "ext":"https://download.kstore.space/download/4344/yun/天天直播.json"
+   
+         },
         {
         "key": "csp_xBPQ_香蕉搜索",
         "name": "🏆麻豆女优",
