@@ -43,14 +43,7 @@
        "jar":"http://52bsj.vip:81/api/v3/file/get/160462/fan74.jar?sign=zP4DwdkHRoCGAwmxwmAm7MM8ulxBxQPo4kUTn1BMaOo%3D%3A0"
       },
 
-     {
-      "key": "js_v2-yj",
-      "name": "🍎苹果┃app",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "ext": "https://download.kstore.space/download/4077/xpg/lib/小苹果.js",
-      "jar": "https://download.kstore.space/download/4077/hys1.jar"
-    },
+    
      {
       "key": "csp_七月",
       "name": "🍁柒月┃影视",
@@ -111,7 +104,26 @@
 			"ext": "http://www.miniku.cc/xgapp.php/v2/",
 			"jar":"https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
 		},	
-	
+	        {
+            "key": "布蕾影视",
+            "name": "💼布蕾┃影视",
+            "type": 3,
+            "api": "csp_Appto",
+            "playerType": 2,
+            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok1.jar",
+            "ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="
+        },
+        {
+            "key": "图图影视",
+            "name": "📬图图┃影视",
+            "type": 3,
+            "api": "csp_APPTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok1.jar",
+            "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
+        },
         {
             "key": "csp_yayaya",
             "name": "👧耐菲┃影视",
@@ -1778,6 +1790,10 @@
       "api": "csp_XBPQ",
       "jar":"http://xhww.fun:63/小米/小暴脾气7.jar",
       "ext": {
+      "线路标题":"<span>&&</span>",
+      "播放列表":"<a&&</a>",
+      "线路数组":"class=\"play-title&&</div>",
+      "播放数组":"class=\"play-box&&</div>",
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"dianying&dianshiju&zongyi&dongman",
       "分类url":"https://m.chinasal.com/{cateId}/index___{year}___{catePg}.html"   
@@ -1878,7 +1894,7 @@
       "name": "⛄雪糕┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"http://xhww.fun:63/小米/小暴脾气7.jar",
+     "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"dianying&dianshiju&zongyi&dongman*",
@@ -1936,10 +1952,11 @@
       "api": "csp_XBPQ",
       "jar":"http://xhww.fun:63/小米/小暴脾气7.jar",
       "ext": {
-      "分类":"电影&电视剧&综艺&动漫",
+       "线路标题":"<span>&&</span>",
+       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
       "分类url":"https://www.uccomic.com/vodshow/{cateId}-{area}-------{catePg}---{year}/"   
-    }},
+     }},
     
        
       {
@@ -1951,6 +1968,7 @@
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
+      "线路标题":"class=\"&nbsp&&</span>",
       "分类url":"https://www.gntv.club/vod/show/id/{cateId}.html"   
     }},
     {
@@ -2500,7 +2518,7 @@
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"
        },
 
-         
+        
          {
           "key":"drpy_js_酷奇MV",
           "name":"🎤酷奇┃MV",
@@ -2630,7 +2648,7 @@
   {"name": "77", "type":1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
 {"name":"238","type":0,"url":"https://jiexi.238238.xyz/player/?url=","header":{"User-Agent": "Mozilla/5.0"}},
  {"name":"seven","type":0,"url":"https://www.bjjhsyxx.com/seven.php?url="},
-
+{"name":"vip","type":1,"url":"http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="},
        {
       "name": "稻香🌾",
       "type": 1,
@@ -2664,6 +2682,7 @@
       }
     },
 {"name":"哥哥","type":1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
+{"name":"ayt","type":1,"url":"http://115.231.220.36:8801/jx/tvbox/2211.php?url="},
  {"name":"🐱芒果腾讯专用","type":0,"url":"https://jx.xmflv.com/?url=","ext": {
       "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
       "header": {
@@ -2671,46 +2690,14 @@
       }
     }
   },
-  {"name": "酷云高清", "type": 1, "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}, 
-  {
-      "name": "左岸🌾",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
-      "ext": {
-        "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.19 (dart:io)"
-        }
-      }
-    },
+
+
           {
             "name": "秒开",
             "type": 1,
             "url": "http://119.91.123.253:1234/Api/cs.php?url="
         },
-        {
-            "name": "爱酷",
-            "type": 1,
-            "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
-        },
+        
      
         {
             "name": "叉车",
