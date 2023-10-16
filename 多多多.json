@@ -42,8 +42,19 @@
        "changeable":0,
        "jar":"http://52bsj.vip:81/api/v3/file/get/160462/fan74.jar?sign=zP4DwdkHRoCGAwmxwmAm7MM8ulxBxQPo4kUTn1BMaOo%3D%3A0"
       },
-
     
+      {
+      "key": "csp_午夜",
+      "name": "🌃伍月┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xiongdada3695/xbpq/raw/master/五月影视.json",
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/HeChengChaXiu.jar"
+   
+     },
      {
       "key": "csp_七月",
       "name": "🍁柒月┃影视",
@@ -53,19 +64,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/xiongdada3695/xbpq/raw/master/七月影视.json",
-     "jar":"https://gitee.com/xiongdada3695/jar/raw/main/HeChengChaXiu.jar"
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/HeChengChaXiu.jar"
+   
      },
+     {
+            "key": "嘉靓",
+            "name": "💫嘉靓┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api.jialiangos.com:88/api.php/app/"
+        },
         
-	{"key": "嘉靓",
-     "name": "♐嘉靓┃直链",
-     "type": 3,
-     "api": "csp_AppYsV2",
-     "playerType":2,
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext": "http://cms.jialiangos.com/api.php/app/"
-      },
+	
       {"key":"Mino",
        "name":"👻Mino┃App",
        "type":3,
@@ -96,6 +110,17 @@
             "filterable": 1,
             "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
+         {
+            "key": "csp_亿视",
+            "name": "⛵亿视┃高清",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://mp4.ghlyys.com:916/api.php/app/"
+        },
+                
 		{
 			"key": "apv2_瑞丰",
 			"name": "⛄瑞丰┃影视",
@@ -104,26 +129,8 @@
 			"ext": "http://www.miniku.cc/xgapp.php/v2/",
 			"jar":"https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
 		},	
-	        {
-            "key": "布蕾影视",
-            "name": "💼布蕾┃影视",
-            "type": 3,
-            "api": "csp_Appto",
-            "playerType": 2,
-            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok1.jar",
-            "ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="
-        },
-        {
-            "key": "图图影视",
-            "name": "📬图图┃影视",
-            "type": 3,
-            "api": "csp_APPTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok1.jar",
-            "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
-        },
+	        
+      
         {
             "key": "csp_yayaya",
             "name": "👧耐菲┃影视",
@@ -2391,38 +2398,7 @@
     },
     
     
-    {
-      "key": "Qtv",
-      "name": "🐧腾腾┃视频",
-      "type": 3,
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Itv",
-      "name": "🥝奇艺┃视频",
-      "type": 3,
-      "api": "csp_Itv",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-  
-        {
-      "key": "Mtv",
-      "name": "🥭芒芒┃视频",
-      "type": 3,
-      "api": "csp_Mtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
- 
-    },
+    
    
     {
         "key": "zy_新浪资源",
@@ -2493,7 +2469,7 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/baimang.js"
     },
   
- 
+
    
      {
       "key": "csp_Anime1",
@@ -2647,7 +2623,7 @@
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="},
   {"name": "77", "type":1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
 {"name":"238","type":0,"url":"https://jiexi.238238.xyz/player/?url=","header":{"User-Agent": "Mozilla/5.0"}},
- {"name":"seven","type":0,"url":"https://www.bjjhsyxx.com/seven.php?url="},
+ {"name":"南瓜","type":1,"url":"http://cache.json.icu/1804857380.php?url="},
 {"name":"vip","type":1,"url":"http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="},
        {
       "name": "稻香🌾",
