@@ -11,6 +11,27 @@
   ],
 
   "sites": [
+  
+       
+     {
+	"key": "直转点",
+	"name": "🏆直转点播",
+	"type": 3,
+	"api": "http://lgz.hk3.xyyun.publicvm.com/直转点.js",
+	"ext": "http://lgz.hk3.xyyun.publicvm.com/直转点.txt"
+     },
+  
+  
+    {
+            "key": "csp_xBPQ_香蕉AV解说",
+            "name": "🏆香蕉解说",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉AV解说.json"
+        },
         {
       "key": "csp_xBPQ_香蕉超清",
       "name": "🏆香蕉超清",
@@ -21,8 +42,17 @@
       "filterable": 0,
       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json"
     },
- 
-    {
+          {
+          "key": "csp_xBPQ_超清",
+          "name": "🏆香蕉超清②",
+          "type": 3,
+          "api": "csp_xBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
+          },
+        {
        "key": "csp_xBPQ_香蕉国产",
        "name": "🏆香蕉国产",
        "type": 3,
@@ -517,7 +547,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitee.com/xiongdada3695/xbpq/raw/master/大炮色.json",
+      "ext":"https://download.kstore.space/download/4344/XBPQ/大炮色.json",
      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
      },
       {"key":"csp_XYQHiker_anyav🔞",
@@ -594,7 +624,49 @@
      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91在线视频.json",
      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
       },
-     
+      
+     {
+       "key": "csp_xBPQ_线上",
+       "name": "🏆线上",
+       "type": 3,
+       "api": "csp_xBPQ",
+       "searchable": 1,
+       "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/线上.json"
+        },
+      {
+         "key": "csp_xBPQ_驶入",
+         "name": "🏆驶入",
+         "type": 3,
+         "api": "csp_xBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/驶入.json"
+         },
+        {
+          "key": "csp_xBPQ_有无",
+          "name": "🏆有无",
+          "type": 3,
+           "api": "csp_xBPQ",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 0,
+           "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fkaf1/fk/main/h/有无.json"
+          },
+        {"key":"csp_xBPQ_91色",
+         "name":"🏆91色",
+         "type":3,
+         "api":"csp_xBPQ",
+         "searchable":0,
+         "quickSearch":0,
+         "filterable":0, 
+         "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/91s.json",
+         "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xb.jar"
+         },
+
+
        {
       "key": "csp__色花堂",
       "name": "🏆色花堂",
