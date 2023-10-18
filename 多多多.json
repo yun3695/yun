@@ -110,16 +110,7 @@
             "filterable": 1,
             "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
-         {
-            "key": "csp_亿视",
-            "name": "⛵亿视┃高清",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://mp4.ghlyys.com:916/api.php/app/"
-        },
+ 
                 
 		{
 			"key": "apv2_瑞丰",
@@ -170,11 +161,19 @@
        "searchable":1,
        "quickSearch":1,
        "changeable":1,
-       "ext": "https://www.cz01.pro/"
+       "ext": "https://cz01.pw/"
         },
 
- 
-                
+       {"key":"AppTT",
+        "name":"🚇图图┃影视",
+        "type":3,
+        "api":"csp_APPTT",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":0,
+        "ext":"pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv",
+        "jar":"http://tvbox.top/jar/tt.jar;md5;77a7f4d8c203027fe8e07c916276e879"
+         },
     
       {
       "key": "js_nangua",
@@ -186,8 +185,30 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
-    
-    
+{
+      "key": "小猫",
+      "name": "🐱小猫┃影视",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "悬疑片",
+        "喜剧片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "记录片"
+      ]
+    },
      {
       "key": "ok",
       "name": "💢Free┃OK",
