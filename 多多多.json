@@ -18,7 +18,7 @@
      "quickSearch": 0,
      "filterable": 0},
     
-  
+ 
     
     
       {"key":"csp_YGP",
@@ -57,8 +57,11 @@
             "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar"
          },
+     
+         
       {
       "key": "csp_午夜",
       "name": "🌃伍月┃影视",
@@ -707,7 +710,7 @@
       "name": "🫒西瓜┃采集",
       "type": 3,
       "playerType": 2,
-      "api": "csp_AppYs",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
