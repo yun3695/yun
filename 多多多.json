@@ -2005,16 +2005,17 @@
       "线路标题":"class=\"&nbsp&&</span>",
       "分类url":"https://www.gntv.club/vod/show/id/{cateId}.html"   
     }},
-    {
-      "key": "看美剧影院",
-      "name": "🌟看美┃剧影",
+  
+      {
+      "key": "落攻阁影院",
+      "name": "👊攻阁┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
-      "分类url":"https://www.kmeiju.com/Kanshow/{cateId}-{area}--{class}-----{catePg}---{year}/"   
+      "分类url":"https://www.lggys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     }},
     
     {
@@ -2034,8 +2035,8 @@
             "key": "极速资源",
             "name": "🚄极速┃资源",
             "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-            "playUrl": "https://k.playerla.com/?url="
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8"
+         
         },
      
  
