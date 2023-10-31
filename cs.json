@@ -770,6 +770,48 @@
        "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
        "style":{"type":"rect","ratio":1.33
          }},
+         {"key":"真黄涩仓库",
+       "name":"🏆黄涩仓库",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"http://389hsck.cc/vodtype/{cateId}-{catePg}.html",
+       "直接播放":"1",
+       "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
+       "分类值":"1&2&3&4&8&9&10&7&15&21&22"  },
+       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+       "style":{"type":"rect","ratio":1.33
+         }},
+       
+               {"key":"夜色撩人",
+       "name":"🏆夜色撩人",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://www.ysyy2.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "直接播放":"1",
+        "分类":"传媒&无码&欧美&制服&主播&明星&调教&萝莉&换脸",
+       "分类值":"1&6&2&3&4&5&23&24&25"  },
+       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+       "style":{"type":"rect","ratio":1.33
+         }},
+           {"key":"苹果影院",
+       "name":"🏆苹果影院",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://pgyy24.xyz/{cateId}/p{catePg}",
+        "直接播放":"1",
+        "分类":"国产&主播&无码&有码&欧美&中文字幕&强奸乱伦&制服诱惑&巨乳&人妻&动漫",
+       "分类值":"guochanjingpin&guochanjingpin&ribenwuma&ribenyouma&oumeijipin&zhongwenzimu&qiangjianluanlun&zhifuheisi&jurumeiru&shunvrenqi&chengrendongman"  },
+       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+       "style":{"type":"rect","ratio":1.33
+         }},
+        
+    
        
      {"key":"csp_XBPQ_X先生",
       "name":"🏆X先生",
