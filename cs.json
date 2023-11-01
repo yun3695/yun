@@ -40,8 +40,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json"
-    },
+      "ext": "https://download.kstore.space/download/4344/XBPQ/新香蕉超清资源.json"
+      },
           {
           "key": "csp_xBPQ_超清",
           "name": "🏆香蕉超清②",
@@ -50,8 +50,20 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
-          "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
-          },
+          "ext": "{
+         \"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", 
+         \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",
+         \"副标题\":\"duration\\\">&&</div\",
+         \"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", 
+         \"链接前缀\": \"https://avhh.vip/cq/Kplay\",
+         \"链接后缀\": \".html\", 
+         \"直接播放\": \"1\",
+         \"搜索url\":\"https://avhh.vip/cq/vod/search/page/{catePg}/wd/{wd}.html\",
+          \"搜索链接前缀\": \"https://avhh.vip/cq/Kplay\",
+          \"搜索链接后缀\": \".html\", 
+          \"搜索链接\": \"href=\\\"/cq/Kplay&&.html\\\"\"
+              }"
+            },
         {
        "key": "csp_xBPQ_香蕉国产",
        "name": "🏆香蕉国产",
@@ -60,7 +72,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0,
-        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉国产传媒.json"
+        "ext": "https://download.kstore.space/download/4344/XBPQ/新香蕉国产传媒.json"
      },
      {
        "key": "csp_xBPQ_香蕉久久热",
@@ -70,7 +82,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉久久热.json"
+      "ext": "https://download.kstore.space/download/4344/XBPQ/新香蕉久久热.json"
       },
       {
         "key": "csp_xBPQ_香蕉废柴",
@@ -80,7 +92,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,    
-        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉废柴网.json"
+        "ext": "https://download.kstore.space/download/4344/XBPQ/新香蕉废柴网.json "
       },
       {
       "key": "csp_香蕉资源",
@@ -90,8 +102,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	 "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉资源.json"
-    },
+      "ext": "https://download.kstore.space/download/4344/XBPQ/香蕉资源.json"
+      },
      {
       "key": "csp_香蕉视频",
       "name": "🏆香蕉视频",
@@ -776,7 +788,7 @@
        "api":"csp_XBPQ",
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
-       "ext":{"分类url":"http://389hsck.cc/vodtype/{cateId}-{catePg}.html",
+       "ext":{"分类url":"http://390hsck.cc/vodtype/{cateId}-{catePg}.html",
        "直接播放":"1",
        "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
        "分类值":"1&2&3&4&8&9&10&7&15&21&22"  },
@@ -811,7 +823,20 @@
        "style":{"type":"rect","ratio":1.33
          }},
         
-    
+       {"key":"AV掏宝",
+       "name":"🏆av淘宝",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://www.avtb.info/{cateId}/recent/{catePg}/",
+       "直接播放":"1",
+       "分类":"重口&亚洲&少女&潮吹&大屌&长视频&口爆&肛交&国产&高清&户外&巨乳&口交&乱伦&meinv&欧美&性派对&器具&群交&强奸&人妻&无码&有码&学妹&性爱&丝袜&调教&中文&素人&3p&制服&主播&足交",
+       "分类值":"awesome&asian&babe&chaochui&dadiao&duration&facial&gangjiao&guochan&hd&huwai&juru&koujiao&luanlun&meinv&oumei&party&qiju&qunjiao&rapping&renqi&ribenwuma&ribenyouma&schoolgirl&sex&siwa&sm&subtitle&suen&threesome&zhifu&zhubo&zujiao"  },
+       "jar":"https://download.kstore.space/download/4344/jar/fan.txt",
+       "style":{"type":"rect","ratio":1.33
+         }},
+ 
        
      {"key":"csp_XBPQ_X先生",
       "name":"🏆X先生",
