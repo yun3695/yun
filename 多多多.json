@@ -3,7 +3,7 @@
 //本接口仅限测试之用，请勿乱传、售卖，感谢理解。
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1283f666a6cad6c58530d7f2d5eef333",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;cf00cc8baef423e51187750ac973417d",
     "lives": [
         {
             "name": "直播",
@@ -268,17 +268,16 @@
             "changeable":1,
             "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
               },
-    
-         { "key": "橘子", 
-           "name": "🍊橘子┃App",
-           "type": 3,
-           "jar": "http://xhww.fun:63/小米/qj.jar;md5;8028934b4eaa9daaa68c0c7f1c7ed006",
-          "api": "csp_Appto", 
-          "searchable": 1, 
-          "quickSearch": 1,
-          "changeable": 1, 
-          "ext": "SRMR+YDWyjDw4OVi1abp1qmsPQBFSG/d46yjg1bMwRs2+AjVEALgCrNa182rw7JF5rG/LEkq1git0tTkngA1wZsYmjnRNFSZzj2OAUt+lp8HMp38HO1hA42NeARurO1Xg5PGigDiW57pgSMvi9j4aFj4XnDVX/JhAWwbOA8sywGFP9zPldoLpw0l+R7Xvry56BuB0Iv2tnlFzrc98gSLbjIGXRTjJ3LEgo1GZnDM/y22Ydl8Or7/+3Hp6eY4GfPi4do4miRrfuku005ljcQ5jnY+fNSnhABgSQeF9qb9HdshY4HsSu+DKxVuyJ9H1LZmd0Rghbg+tjA3UdMUOccLq5aXLQWgLQ5IRz3f6DNbpsvOsPFlRJEOoioB9Dk+nAZVNjcilTTJaPmyp02KpGiV+cMHTemVGsZNcQYbDQYn3EYKynE2qP9FlI3Pbea9HIlTnnRe4PVtN+oKowgPBNw6CHkNZhf8uIwf54cG5kfanigW/6aqWEf1wQ7E72QdnAxnTLZkLJ0XMR9ciG6noEX8cY5JuuKO5YekcDHCa1Q1+DPLJiRUmqfPswc2EKBNiX14uEHJzUYCUs6ZtGUJpgxzeM8wp/+JbKIwncsuxNM2GWKGEAuYMMaxiYBai4md94dJwu21GnQiBTGZiU4Ax60AXVnsM3cgVbfsxwe7l1TpV6sk=" 
-          }, 
+           {"key":"橘子",
+              "name":"🍊橘子┃App",
+              "type":3,
+              "api":"csp_AppMao",
+              "searchable":1,
+              "quickSearch":1,
+              "changeable":1,
+              "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+              }, 
+      
          {"key":"K影",
           "name":"🆔K影┃App",
           "type":3,
