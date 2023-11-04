@@ -11,8 +11,80 @@
   ],
 
   "sites": [
-  
-       
+        {
+            "key": "csp_SP360",
+            "name": "┃SP┃360影视",
+            "type": 3,
+            "api": "csp_SP360",
+			"playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://download.kstore.space/download/4344/jar/官源.jar "
+			
+        },{
+            "key": "csp_SP2345",
+            "name": "┃SP┃2345影视",
+            "type": 3,
+            "api": "csp_SP2345",
+			"playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://download.kstore.space/download/4344/jar/官源.jar "
+        },
+        {
+            "key": "csp_qq",
+            "name": "┃SP┃腾腾视频",
+            "type": 3,
+            "api": "csp_qq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://download.kstore.space/download/4344/jar/官源.jar "
+        },
+        {
+            "key": "csp_iqiyi",
+            "name": "┃SP┃奇艺影视",
+            "type": 3,
+            "api": "csp_iqiyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://download.kstore.space/download/4344/jar/官源.jar "
+        },
+        {
+            "key": "csp_mgtv",
+            "name": "┃SP┃芒果电影",
+            "type": 3,
+            "api": "csp_mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://download.kstore.space/download/4344/jar/官源.jar "
+        },
+		{
+            "key": "csp-youku",
+            "name": "┃SP┃优酷电影",
+            "type": 3,
+            "api": "csp_youku",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://download.kstore.space/download/4344/jar/官源.jar"
+     
+        },
+       {"key": "Bilfun",
+        "name": "┃视听┃Bilfun",    
+        "type": 1,   
+        "api": "https://cdk.centos.chat/api.php/provide/vod",  
+
+        "searchable": 1,   
+        "quickSearch": 1,  
+        "filterable": 1,  
+        "categories": [ "柒之社(蓝光专区)", "电影","连续剧", "综艺", "动漫", "体育赛事","纪录片", "电影解说","短剧", "预告片",]
+        },
+
      {
 	"key": "直转点",
 	"name": "🏆直转点播",
@@ -788,7 +860,7 @@
        "api":"csp_XBPQ",
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
-       "ext":{"分类url":"http://390hsck.cc/vodtype/{cateId}-{catePg}.html",
+       "ext":{"分类url":"http://395hsck.cc/vodtype/{cateId}-{catePg}.html",
        "直接播放":"1",
        "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
        "分类值":"1&2&3&4&8&9&10&7&15&21&22"  },
@@ -1035,8 +1107,9 @@
      {"name":"BL","type":0,"url":"https://vip.bljiex.com/?v="},
     {"name": "-咸鱼-","type": 0, "url": "https://jx.xyflv.com/?url="},
     {"name":"量子","type":0,"url":"https://jx.jsonplayer.com/player/?url=","header":{"User-Agent": "Mozilla/5.0"}},
-{"name":"777爱腾","type":0,"url":"https://jx.777jiexi.com/player/?url="}
-  
+{"name":"777爱腾","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+         {"name":"centos" ,"type":0,"url":"https://jx.centos.chat/?url=" },
+      {"name": "static","type":1,"url":"https://static-proxy.07voda.fun/api/jiexi/07vods-01.php?url="}
   ],
 
 
