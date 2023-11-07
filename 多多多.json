@@ -111,7 +111,33 @@
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
       },
-         
+         {"key":"觅视频",
+          "name":"🗽觅视┃App",
+          "type":3,
+          "api":"csp_AppSK",
+          "searchable":1,
+          "quickSearch":1,
+          "changeable":1,
+          "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
+         },
+         {"key":"极光",
+          "name":"☀极光┃App",
+          "type":3,
+          "api":"csp_AppSK",
+          "searchable":1,
+          "quickSearch":1,
+          "changeable":1,
+          "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
+          },
+          {"key":"追忆",
+           "name":"🐿追忆┃App",
+           "type":3,
+           "api":"csp_AppSK",
+           "searchable":1,
+           "quickSearch":1,
+           "changeable":1,
+           "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
+          },
       {
       "key": "csp_午夜",
       "name": "🍓伍月┃影视",
@@ -1428,7 +1454,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/x3695/xyqhiker/-/raw/main/lol影院.json",
-        "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+        "jar":"https://raw.gitmirror.com/yun3695/jar/main/xyq.jar"
     },
     
     {
@@ -1935,12 +1961,13 @@
       "name": "🍊金曼┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-     "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
       "分类url":"https://jinman2.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"   
     }},
+
   
     {
       "key": "0855影视",
@@ -2002,19 +2029,7 @@
     }},
   
       
-      {
-      "key": "西瓜影院",
-      "name": "🍉西瓜┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
-      "ext": {
-       "线路标题":"<span>&&</span>",
-       "分类":"电影&电视剧&综艺&动漫",
-      "分类值":"1&2&3&4",
-      "分类url":"https://www.uccomic.com/vodshow/{cateId}-{area}-------{catePg}---{year}/"   
-     }},
-    
+  
        
       {
       "key": "光年影院",
@@ -2580,6 +2595,8 @@
                 ]
             }
         },
+       {"name":"巧技1","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=",
+      "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
       {
       "name": "稻香🌾",
       "type": 1,
