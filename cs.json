@@ -11,7 +11,7 @@
   ],
 
   "sites": [
-             
+      
    
      {
 	"key": "直转点",
@@ -788,7 +788,7 @@
        "api":"csp_XBPQ",
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
-       "ext":{"分类url":"http://120hsck.cc/vodtype/{cateId}-{catePg}.html",
+       "ext":{"分类url":"http://121hsck.cc/vodtype/{cateId}-{catePg}.html",
        "直接播放":"1",
        "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
        "分类值":"1&2&3&4&8&9&10&7&15&21&22"  },
