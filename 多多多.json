@@ -91,8 +91,28 @@
            "jar":"http://cdn.qiaoji8.com/fix1102.jar;md5;a08a2fee3ccc85c05a7a584c9c4d1cf3",
             "ext": "ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI="
         },
-           
-    {"key":"一起看",
+          {"key":"雨晴",
+           "name":"☁雨晴┃影视",
+           "type":3,
+           "api":"csp_AppYsV2",
+           "searchable":1,
+           "quickSearch":1,
+           "filterable":1,
+           "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"
+             },
+              {  
+                "key": "海星专线",
+                "name": "💟海星┃独家",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+                "ext": {
+                "线路数组":"data-dropdown-value=&&</div>",
+                "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集", 
+                "分类url":"http://120.46.69.145/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   
+              }}, 
+
+       {"key":"一起看",
      "name":"🎉一起┃App",
      "type":3,
      "api":"csp_YQKan",
@@ -2566,6 +2586,7 @@
      {"name":"777爱腾","type":0,"url":"https://jx.777jiexi.com/player/?url="},
      {"name": "777嗅","type": 0,"url": "https://jx.777jiexi.com/player/?next=https://www.woaimoon.com/vod/98780-9-3.html&url="},
 {"name":"玉米","type": 1,"url":"https://jxjson.cf/json.php?url="},
+
     {
       "name": "-777-",
       "type": 0,
