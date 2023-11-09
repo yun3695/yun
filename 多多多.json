@@ -46,7 +46,18 @@
        "changeable":0,
        "jar":"http://52bsj.vip:81/api/v3/file/get/160462/fan74.jar?sign=zP4DwdkHRoCGAwmxwmAm7MM8ulxBxQPo4kUTn1BMaOo%3D%3A0"
         },
-      
+        {"key":"视觉",
+         "name":"🎯视觉┃盛宴",
+         "type":3,
+         "api":"csp_Appto",
+         "searchable":1,
+         "quickSearch":1,
+         "playerType":2,
+         "filterable":1,
+         "jar":"https://download.kstore.space/download/4344/jar/fix1102.jar",
+         "ext":"jrytgWz8W3BsIGIs/QktiAoZ7DtDplwV9Pg7bF8WHnTF5F2klyA77RixFCdoINLj8nCqhlMNuwB1Pb2inNFkZjh8RyGN7ZiOnqpb+aNKTWc/Jck9cfN+SNPCNjjnciGaRqH02Q0iKQBwU/zWOS96pWBxD9lY0qzeNbz4IrokjL7REfCrRVCcOVrXRuY+Pqa4W64no+kOxEzgiXo2D2z1M5rewxwQD0hMFq8psl+TndXgy3T02vKjjNzGT6U7IqR2O1BPEj7GbFWtGZHeYsMp9/hvlhKj6zpekdc/TuxTAQ5+zLGSoL5rrwLOlEr+OSpeT8C6bDxI9wvvmIoFMLMmgHEo2weV2KgP6r6MONUo7B7UlSWSydzHsXYKjcM0Z0kk5GO6eCn2/H3nDnhccyOtL101S4JRTPAsF4FStqYRibK/I1jwUd8+tUxUKtHRqb2tSD5g0HzcKjZGSCvw/drZKG2dEtOEFhb8f6b3f+UH6f8oGOPrw5n/sUmWoMtNV6qO0uXgisoIBGcesdlXaZd7ZmFwecyipGGkUh2L+uHKTpGBYXpwYZweuESOdeaemVcEiPWs0uvWxi3fQHvhYyVOORJxrVWwwkxAOUGbQCCXxeghANz9NPwK6ff6siV0+p2486wXV55TX8rR8UakzQ1f7/5PaFp5FnjQEzwmkPF/zzE4="
+         },
+   
            {
             "key": "蝴蝶",
             "name": "🌸蝴蝶┃App",
@@ -158,15 +169,17 @@
           "changeable":1,
           "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
           },
-          {"key":"追忆",
-           "name":"🐿追忆┃App",
-           "type":3,
-           "api":"csp_AppSK",
-           "searchable":1,
-           "quickSearch":1,
-           "changeable":1,
-           "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
-          },
+     
+             {"key":"小鹿影院",
+             "name":"♣小鹿┃影视",
+             "type":3,
+             "api":"csp_XBPQ",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1,
+             "ext":"https://download.kstore.space/download/4344/XBPQ/小鹿影视.json",
+            "jar":"https://download.kstore.space/download/4344/jar/hc.jar"
+            },
       {
       "key": "csp_午夜",
       "name": "🍓伍月┃影视",
@@ -293,9 +306,10 @@
               "changeable":1,
               "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
               }, 
+         
       
          {"key":"K影",
-          "name":"🆔K影┃App",
+          "name":"🍣K影┃App",
           "type":3,
           "api":"csp_AppYsV2",
           "searchable":1,
@@ -303,6 +317,15 @@
           "filterable":0,
       	"jar": "https://gitee.com/xiongdada3695/jar/raw/main/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d",
           "ext":"http://iosa.xn--654a.cc/api.php/app/"
+          },
+                {"key":"99采集",
+          "name":"💞99┃App",
+          "type":3,
+          "api":"csp_AppYsV2",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":0,
+          "ext":"http://4d2u.cc/api.php/app/"
           },
       
         {"key":"时常",
@@ -409,16 +432,7 @@
      },
  
     
-      {"key":"Czsapp",
-       "name":"🍟厂长┃直连",
-       "type":3,
-       "api":"csp_Czsapp",
-       "playerType":2,
-       "searchable":1,
-       "quickSearch":1,
-       "changeable":1,
-       "ext": "https://czz9.com/"
-        },
+     
      { "key": "js_nangua",
        "name": "🎃南瓜┃影视", 
        "type": 3, 
@@ -428,33 +442,7 @@
        "filterable": 1,
        "ext": "https://download.kstore.space/download/4344/js/nangua.js"
        },
-    
-     
-{
-      "key": "小猫",
-      "name": "🐱小猫┃影视",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "悬疑片",
-        "喜剧片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "犯罪片",
-        "记录片"
-      ]
-    },
-  {
+        {
 			"key": "freeok",
 			"name": "🌟free┃OK",
 			"type": 3,
@@ -1708,7 +1696,24 @@
                  "api": "csp_AppYsV2", 
                  "ext": "https://sk100.tv/api.php/app/"
                   }, 
-                
+                  {"key":"drpy_js_爱看",
+                   "name":"💞爱看┃影视",
+                  "type":3,
+                  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+                  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/爱看.js"
+                 },
+                {"key":"drpy_js_影视之家",
+                "name":"🏞︎影视┃之家",
+                "type":3,
+                "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+                "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/影视之家.jsd"
+                 },
+                {"key":"drpy_js_朴樱影视",
+                 "name":"🌸朴樱┃影视",
+                 "type":3,
+                 "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+                 "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/朴樱影视.js"
+                 },
                 { 
               "key": "js_吼吼",
               "name": "💥‍吼吼┃影视", 
@@ -1723,12 +1728,25 @@
              "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
              "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/139影视.js"
              },
+             {"key":"drpy_js_8号影院",
+               "name":"🎱8号┃影院",
+                "type":3,
+                "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+                "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/8号影院.js"
+                 },
+                 {"key":"drpy_js_我爱跟剧",
+                  "name":"❤我爱┃跟剧",
+                  "type":3,
+                  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+                  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/我爱跟剧.js"
+                },
             {"key":"drpy_js_光棍影院",
              "name":"🥍光棍┃影院",
              "type":3,
              "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
              "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/光棍影院.js"
               },
+              
             {
           "key":"兔兔瓜影院",
           "name":"🐰免瓜┃影院",
@@ -1761,17 +1779,7 @@
            },
            
       
-           {
-         "key":"csp_345",
-         "name":"🤓345┃看片",
-         "type":3,
-         "api":"csp_XBPQ",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "ext":"https://download.kstore.space/download/4344/XBPQ/345看片.json",
-         "jar":"https://gitee.com/xiongdada3695/jar/raw/main/HeChengChaXiu.jar"
-           },
+          
           {
         "key": "csp_XYQHiker_兄弟影视",
        "name":"💏兄弟┃影视",
@@ -1894,7 +1902,7 @@
       "分类值":"dy&juji&zongyi&dongman",
       "分类url":"https://www.wangfei.eu/vodshow/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   
       }},
-      
+ 
       
      {
       "key": "开心影视",
