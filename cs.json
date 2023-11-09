@@ -988,7 +988,13 @@
       "filterable": 0,
       "ext": "https://download.kstore.space/download/4344/XBPQ/色花堂.json",
           "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
-    }
+    },
+    {"key":"drpy_js_ikanbot3",
+      "name":"🏆爱看机器",
+      "type":3,
+      "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/ikanbot3.js"
+       }
        
       ],
      "lives": [
