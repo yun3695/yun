@@ -173,16 +173,7 @@
         "ext":"FbjPcVZY48PN/RIZ5UWFrsgzZIYQQdkQD24ZqLG4x0BQRMqZ/naRzE3Wr//0G3O5b3qZ52k6mnolCwR8RphAeSIOJpbFm1y/c0U5jCoKjLdmWaD9fWAhDDfhZXgos8WxwC6MOtZ3UKcPijkmiHTnX1xJQ+K8qx42Y/UgK30UPy299f9v19QvE9Y0Rc9zf1hbaxFoiTMPUz29r18V4SYUreB+tPz+oBocIDYMwbcxYV88pp2F2Ce4duCd9ByaldOBQonUFSYQFLWQbEY16eFVZHrR/+Tx6cXUvvph+YFcF3soDv4r7kL18ZuPWh6xEjUFJV1YeFoDrWW5i+dRvsfxm33epympDpsa1o/lgQyPoTLVzegF1w+FlXpH+Hm75ocGor/lotEUoaS4iTtA0XGPcbOHRXAofyjY1r4LnOz9PIpA3d7ze6141sJty0bA9NTwfbIPbZ3auEvnlyX2XQ1pO+JKAnYPHM1mS7nDnorJy9Z6JO/Lc2Uiaps09sg54yQSlIGTOG1sJevQN7FeQxtaLwYnkzJNgRP1T6OmFtR9osmzB0+lOSEeRHxN6PPNUz0l3wJ72MHeuGzKWyPOfjsCqH07tdKPiCj418ma7SxkGFJdq6gFmqdzgckU/LDiDDjZG+DBaL6F1gDQJ999OAB/YAIXD5h82ZHUzG6hURmu48Tp34VHWdtponBFRrUV51N5XFXM48zI2Kj2DaI/evIZ3uap4M6eS4Rx+hsVDxUbUTzDo4LQ9njQISCnzMtQecFA+BqtjibK2Dc06by8WzWJ4VHSooaoID39D5sFW/VUt9fbY+OTsbnlIJh7UME="
         }, 
        
-         { 
-           "key": "达人", 
-           "name": "✈️达人┃app", 
-           "type": 3, 
-           "api": "csp_AppYsV2",
-           "searchable": 1, 
-           "quickSearch": 1, 
-           "filterable": 1, 
-           "ext": "http://4k.953365.cn:8090/xgapp.php/v2/" 
-            }, 
+      
            
              {"key":"99采集",
           "name":"💞99┃App",
@@ -2429,6 +2420,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://download.kstore.space/download/4344/XBPQ/胖虎影视.json"
+      },
+        {
+      "key": "csp_新视觉",
+      "name": "🌅视觉┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "ext": "https://download.kstore.space/download/4344/XBPQ/新视觉影视.json"
       },
         {
             "key": "js_电影先生",
