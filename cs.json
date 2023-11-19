@@ -999,6 +999,8 @@
        "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
       "style":{"type":"rect","ratio":1.33
        }},
+
+       
      {"key":"csp_XBPQ_X先生",
       "name":"🏆X先生",
       "type":3,
@@ -1118,7 +1120,36 @@
          "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/91s.json",
          "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xb.jar"
          },
-
+      {"key":"csp_hwbl",
+        "name":"🏆\u9ec4\u7f51\u7206\u6599",
+        "type":3,
+        "api":"csp_XBPQ",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":0,
+        "jar":"https://cn.kstore.space/download/4344/jar/hw.jpg",
+        "ext":{"直接播放":"1",
+        "分类":"自拍偷拍$139#\u56fd\u4ea7\u4f20\u5a92$158#91\u4ed3\u5e93$246#\u53e6\u7c7b\u4ed3\u5e93$327# \u7279\u8272\u4ed3\u5e93$316#\u7cbe\u54c1\u8d44\u6e90$161#\u4e2d\u6587\u5b57\u5e55$176#\u5927\u4f17\u7cbe \u54c1$164#\u756a\u53f7\u5927\u5168$165#\u5bcc\u4e8c\u4ee3\u533a$166#\u70ed\u95e8\u89c6\u9891$177# \u4f26\u7406\u4f5c\u54c1$109#91\u7cbe\u9009$376#自慰系列$145",
+        "搜索url":"https://kdf21jq-79dei-bs.hwblgo15.buzz/search/{wd}",
+       "图片":"< img src=\"&&\"",
+       "链接":"href=\"/info/&&\"",
+       "链接前缀":"https://kdf21jq-79dei-bs.hwblgo15.buzz/play/",
+       "分类url":"https://kdf21jq-79dei-bs.hwblgo15.buzz/type/{cateId}/{catePg}"
+        }},
+      {"key":"1026xyz",
+       "name":"🏆ccc1026视频",
+       "type":3,
+       "api":"csp_xBPQ",
+       "ext":{
+       "直接播放":"1",
+       "数组":"class=\"video-pic loading\"&&</a",
+       "图片":"data-original=\"&&\"",
+       "链接":"href=\"/detail/&&.html",
+       "链接前缀":"https://www.ccc1026.xyz/play/",
+       "链接后缀":"-1-1.html",
+       "分类url":"https://www.ccc1026.xyz/vod/type/id/{cateId}/page/{catePg}.html",
+       "分类":"视频一区$1#视频二区$2#视频三区$3#国产精选$6#欧美大片$7#岛国大片$8#传媒影视$9#色情动漫$10#三级伦理$11#性爱直播$12#明星淫乱$13#SM调教$14#强奸轮奸$15#乱伦性爱$16#约炮探花$20#网曝泄密$21#萝莉少女$22#熟女人妻$23#绿帽淫妻$24#口爆颜射$25#自拍偷拍$26#男同女同$27#制服诱惑$28#AV解说$29","免嗅":"1"
+       }},
 
        {
       "key": "csp__色花堂",
