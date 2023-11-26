@@ -200,7 +200,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+            "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          },
       {"key": "xgapp",
       "name": "🫒西瓜┃采集",
@@ -472,7 +472,7 @@
           "quickSearch":1,
           "filterable":1,
           "ext":"https://raw.gitmirror.com/yun3695/json/main/耐看点播.json",
-             "jar":  "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+             "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
        },
          {
            "key":"csp_Bdys",
@@ -482,7 +482,7 @@
            "searchable":1,
            "quickSearch":1,
            "filterable":1,
-           "jar":  "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+           "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
           },
           
      
@@ -618,7 +618,7 @@
           "quickSearch":1,
           "filterable":1,
           "ext":"https://raw.gitmirror.com/yun3695/json/main/A8影视.json",
-          "jar":  "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+          "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
        },
  
          {"key": "csp_XYQHiker_影视工场",
@@ -629,7 +629,7 @@
          "quickSearch":1,
          "filterable":1,
          "ext":"https://raw.gitmirror.com/yun3695/json/main/影视工场.json",
-         "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          },
       
 
@@ -642,7 +642,7 @@
          "quickSearch":1,
          "filterable":1,
          "ext":"https://raw.gitmirror.com/yun3695/json/main/影渣渣影视.json",
-         "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          },
        
      
@@ -669,7 +669,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/json/main/玩偶哥哥.json",
-      "jar":  "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+      "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
      
   },
   	{
@@ -708,7 +708,7 @@
             "quickSearch": 1,
             "filterable": 1,
               "jar": "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar",
-            "ext": "https://raw.gitmirror.com/yun3695/json/main/阿里云盘网.json"
+            "ext": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
         },
          {"key":"真不卡",
           "name":"🍡不卡┃影视",
@@ -719,7 +719,7 @@
           "quickSearch":1,
           "filterable":1,
           "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar",
-          "ext":"https://raw.gitmirror.com/yun3695/json/main/电影盒子.json"
+          "ext":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
            },
          { "key": "秒看资源",
            "name": "💢秒看┃切片",
@@ -781,7 +781,7 @@
          "quickSearch":1,
          "filterable":1,
          "ext":"https://raw.gitmirror.com/yun3695/json/main/红领巾影院.json",
-         "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
           },
           
           {"key": "csp_XYQHiker_MOFLIX影院",
@@ -792,7 +792,7 @@
            "quickSearch":1,
            "filterable":1,
            "ext":"https://raw.gitmirror.com/yun3695/json/main/MOFLIX影院.json",
-           "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+           "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
             },
     
          
@@ -1104,7 +1104,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/json/main/锐行加速影院.json",
-       "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+       "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     {
       "key": "csp_XYQBiu_1985电影网",
@@ -1115,7 +1115,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/json/main/1985电影网.json",
-      "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+      "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
         {
       "key": "csp_XYQHiker_MayiTube",
@@ -1126,7 +1126,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/json/main/MayiTube.json",
-           "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+           "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     
          
@@ -1485,7 +1485,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/XYQHiker/main/看一看影视.json",
-      "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+      "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     
      {
@@ -1497,7 +1497,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/json/main/奇趣影视.json",
-      "jar": "https://raw.gitmirror.com/yun3695/jar/main/xyq.jar"
+      "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     
        {
@@ -1509,7 +1509,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/x3695/xyqhiker/-/raw/main/lol影院.json",
-        "jar":"https://raw.gitmirror.com/yun3695/jar/main/xyq.jar"
+        "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     
     {
@@ -1521,7 +1521,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/json/main/歪片星球.json",
-          "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+          "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     
       
@@ -1798,7 +1798,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
-         "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
           },
    
           {"key":"sliu_spider",
@@ -1823,7 +1823,7 @@
        "quickSearch":1,
        "filterable":1,
        "ext":"https://raw.gitmirror.com/yun3695/json/main/兄弟影视.json",
-       "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+       "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          }, 
          {
          "key":"csp_xpath_xfeiji",
@@ -1844,7 +1844,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://raw.gitmirror.com/yun3695/json/main/臭蛋蛋影视.json",
-     "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+     "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
         }, 
          {
             "key":"看B站",
@@ -2229,7 +2229,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+      "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
    		
        {
@@ -2242,7 +2242,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+      "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     
       {
@@ -2255,7 +2255,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+      "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
       },
      {
       "key": "Alips",
@@ -2277,7 +2277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar",
+      "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
  
@@ -2491,7 +2491,7 @@
           "quickSearch":0,
           "filterable":1,
           "ext":"https://raw.gitmirror.com/yun3695/json/main/酷奇MV.json",
-           "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+           "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
           }, 
           {
          "key": "csp_XYQHiker_虎牙直播",
@@ -2502,7 +2502,7 @@
          "quickSearch": 0,
          "filterable": 0,
          "ext": "https://raw.gitmirror.com/yun3695/json/main/虎牙直播.json",
-         "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          }, 
         {
          "key": "csp_XYQHiker_斗鱼直播",
@@ -2513,7 +2513,7 @@
          "quickSearch": 1,
          "filterable": 0,
          "ext": "https://raw.gitmirror.com/yun3695/json/main/斗鱼直播.json",
-         "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          },
          {
            "key":"drpy_js_好趣网",
