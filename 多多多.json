@@ -561,44 +561,43 @@
       "searchable": 1,
       "quickSearch": 1
           },
-          {
-            "key": "csp_XBP南坊",
-            "name": "💢南坊┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/xiongdada3695/jar/raw/main/ab.jar;md5;d043db482b513572cbc6531d337c711b",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                 "站名": "南坊影视",
-                "主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
-                "请求头": "User-Agent$Dart/2.10 (dart:io)",
-                "二次截取": "\"data\"*[&&]",
-                "数组": "{&&}",
-                "图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
-                "标题": "\"vod_name\"*\"&&\"",
-                "副标题": "\"vod_remarks\"*\"&&\"",
-                "链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
-                "线路数组": "\"player_info\":{&&}",
-                "线路标题": "\"show\"*\"&&\"",
-                "导演": "vod_director\"*\"&&\"",
-                "主演": "vod_actor\"*\"&&\"",
-                "简介": "vod_blurb\"*\"&&\"",
-                "播放二次截取": "&&[替换]",
-                "播放数组": "urls*\\[&&\\]",
-                "播放列表": "{&&}",
-                "跳转播放链接": "\"url\"*\"&&\"",
-                "播放标题": "\"name\"*\"&&\"",
-                "跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=",
-                "播放链接": "解析+\"url\"*\"&&\"",
-                "搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
-                "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t",
-                "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
-            }
-        },
-	
-		
+       	{
+			"key": "csp_XBP南坊",
+			"name": "🏡南坊┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"changeable": 0,
+			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"站名": "南坊影视",
+				"主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
+				"请求头": "User-Agent$Dart/2.19 (dart:io)",
+				"二次截取": "\"data\"*[&&]",
+				"数组": "{&&}",
+				"图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
+				"标题": "\"vod_name\"*\"&&\"",
+				"副标题": "\"vod_remarks\"*\"&&\"",
+				"链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
+				"线路数组": "\"player_info\":{&&}",
+				"线路标题": "\"show\"*\"&&\"",
+				"导演": "vod_director\"*\"&&\"",
+				"主演": "vod_actor\"*\"&&\"",
+				"简介": "vod_blurb\"*\"&&\"",
+				"播放二次截取": "&&[替换]",
+				"播放数组": "urls*\\[&&\\]",
+				"播放列表": "{&&}",
+				"跳转播放链接": "\"url\"*\"&&\"",
+				"播放标题": "\"name\"*\"&&\"",
+				"跳转解析": "默认$空#主线[A]$#主线[B]$https://daina.hk//api//?key=41b637ec6192036e0c35960addd26615&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=#主线[D]$https://sp.huihuidns.cn//api//?key=aTRZhPX8ESjgWVdwDR&url=",
+				"播放链接": "解析+\"url\"*\"&&\"",
+				"搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
+				"分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t",
+				"分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+			}
+		},
 		{"key":"贱贱",
          "name":"🐭贱片┃p2p",
          "type":3,
@@ -630,6 +629,16 @@
           "ext":"https://raw.gitmirror.com/yun3695/json/main/耐看点播.json",
              "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
        },
+        {"key": "csp_XYQHiker_奈飞中文",
+          "name":"🍟奈飞┃中文",
+          "type":3,
+          "api":"csp_XYQHiker",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "ext":"https://raw.gitmirror.com/yun3695/XYQHiker/main/奈飞中文.json",
+          "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+         },
          {
            "key":"csp_Bdys",
            "name":"💦哔嘀┃影视",
@@ -810,16 +819,7 @@
      "changeable":0,
      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
       }, 
-         {
-            "key": "XYQaL_4kHDR",
-            "name": "👩‍⚕️玩偶┃姐姐",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_XYQHikerAL",
-            "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;https://bitbucket.org/xduo/json/raw/master/4khdr.json",
-            "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
-        },
-    
+
     
         {
             "key": "cps_阿里云盘",
@@ -1848,9 +1848,9 @@
               "key": "js_吼吼",
               "name": "💥‍吼吼┃影视", 
               "type": 3,
-              "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+              "api": "https://la.kstore.space/download/4344/libs/drpy.min.js",
               "searchable": 1, "quickSearch": 1, "filterable": 1, 
-              "ext":"https://jihulab.com/iduoduo/xduo/-/raw/main/libs/hoho.js"
+              "ext":"https://d.kstore.space/download/4344/js/吼吼影视.js"
               }, 
             {"key":"drpy_js_139影视",
              "name":"🎬️139┃影视",
@@ -2434,11 +2434,11 @@
             "key": "js_电影先生",
             "name": "🤵电影┃先生",
             "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://la.kstore.space/download/4344/libs/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/电影先生.js"
+            "ext": "https://d.kstore.space/download/4344/js/电影先生.js"
         },
      {
       "key": "360_spider",
@@ -2491,41 +2491,41 @@
             "key": "js_奇异",
             "name": "🥝奇异┃官源",
             "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://la.kstore.space/download/4344/libs/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/qzys.js"
+            "ext": "https://d.kstore.space/download/4344/js/奇珍异兽.js"
         },
         {
             "key": "js_芒果",
             "name": "🥭芒芒┃官源",
             "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://la.kstore.space/download/4344/libs/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/baimang.js"
+            "ext": "https://d.kstore.space/download/4344/js/百忙无果.js"
         },
         {
             "key": "js_优酷",
             "name": "👑油库┃官源",
             "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://la.kstore.space/download/4344/libs/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/youku.js"
+            "ext": "https://d.kstore.space/download/4344/js/优酷.js"
         },
         {
             "key": "js_菜狗",
             "name": "🐕️菜狗┃官源",
             "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://la.kstore.space/download/4344/libs/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/caigou.js"
+            "ext": "https://d.kstore.space/download/4344/js/菜狗.js"
         },
       {
      "key": "戏 曲" ,
@@ -2555,7 +2555,7 @@
          "quickSearch":1,
          "filterable":1,
          "ext":"https://raw.gitmirror.com/yun3695/json/main/DJ呦呦音乐网.json",
-         "jar":"https://raw.gitmirror.com/yun3695/jar/main/XYQ.jar"
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
           }, 
          {
           "key": "csp_XYQHiker_酷奇MV",
