@@ -150,7 +150,15 @@
             "ext": "ni5dRSBWYeWhGp9alBqGZFy2cxtz26FdaJ/QZR3uvYHu9qLW4lPQLU+hcdUiiaXJew0vfxRmUtNfNYAmajbjb4RDtpFTQP6OXMwKde/57Zt4XWW050MS+LSGpY1MJ5sF0LbC6dp2eq+YITaBvAlQei9XNFspAglOkriJJPjqV+G+BYTm85/G7xQ5Q+5abqF10GAuh6RsTe0nBAu89yt3VeP7fPIBbQB64/fsueEYl4YL+1TSVV81RLMo7OKk45K571c53EbrgrrIQJdNIfgHLcz/uys5oaLnVhYv7BhMm3hVhlNKh+c9BkIzWRTvZaQj/wd8nI8hA4UDyAR4D9x74sQ=="
         },
         
-      
+       {"key":"csp_Czsapp",
+        "name":"🏭厂长┃直链",
+        "type":3,
+        "api":"csp_Czsapp",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":0,
+        "ext":"https://www.czzy33.com/"
+          },
            
              {"key":"99采集",
           "name":"💞99┃App",
@@ -346,7 +354,7 @@
 		},
               {  
                 "key": "海星专线",
-                "name": "💟海星┃独家",
+                "name": "??海星┃独家",
                 "type": 3,
                 "api": "csp_XBPQ",
                 "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
@@ -512,7 +520,7 @@
 			"type": 3,
 			"api": "csp_AppYs",
 			"ext": "https://cokemv.co/xgapp.php/v2/",
-			     "jar":"https://notabug.org/x715/jar/raw/master/XYQ.jar"
+			"jar":"https://notabug.org/x715/jar/raw/master/XYQ.jar"
 		},    
 		
     
@@ -540,6 +548,16 @@
       "ext": "https://gitee.com/xiongdada3695/xbpq/raw/master/七月影视.json",
       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/HeChengChaXiu.jar"
        },
+       {"key": "绿狐",
+        "name": "💚绿狐┃影视 ",
+        "type": 3,
+        "api": "csp_AppYsV2",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+         "ext": "http://one3.mg4k.top/mogai_api.php/v1.vod"
+         },
+
        {"key":"新建",
      "name":"👰新新┃影视",
       "type":3,
@@ -619,15 +637,15 @@
      	"jar": "https://gitee.com/xiongdada3695/jar/raw/main/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d",
          "ext":""},
     
-		 {"key": "csp_XYQHiker_耐看点播",
+		 {"key": "csp_XBPQ_耐看点播",
           "name":"🎯耐看┃点播",
           "type":3,
-          "api":"csp_XYQHiker",
+          "api":"csp_XBPQ",
           "searchable":1,
           "quickSearch":1,
           "filterable":1,
-          "ext":"https://raw.gitmirror.com/yun3695/json/main/耐看点播.json",
-             "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+          "ext":"https://d.kstore.space/download/4344/XBPQ/耐看点播.json",
+          "jar":  "https://gitee.com/xiongdada3695/jar/raw/main/HeChengChaXiu.jar"
        },
         {"key": "csp_XYQHiker_奈飞中文",
           "name":"🍟奈飞┃中文",
@@ -649,7 +667,16 @@
            "filterable":1,
            "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
           },
-          
+           {"key": "csp_XBPQ_电影牛",
+          "name":"🐘电影┃牛牛",
+          "type":3,
+          "api":"csp_XYQHiker",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "ext":"https://d.kstore.space/download/4344/XQYHiker/电影牛.json",
+          "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+       },
      
                 {
 			"key": "双黄",
