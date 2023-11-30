@@ -63,8 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-      "jar":"https://tvbox.meitufu.com/TVBox/jar/YT.jar"
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
          },
     
             {"key":"星星",
@@ -131,24 +130,8 @@
              },
         
            
-        {
-            "key": "极光",
-            "name": "☀极光┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "playerType": 2,
-            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar",
-            "ext": "NMDov8r4lyPi7o1tN25TtmgTsPlPHtHeRBRxZF4SKC8s5AHOmzhIY2iaZp8AxN0ZxJLO2OgtpgVQOfPpyTwzhwGg1yPdF3l7po7LkV1USxsJkRrw5ScjMqB5XGCbiPf2uuQpnZygmOyUtfqizMhiUWlYx20EQgGkKAgCPVZdWubFqKEfck+NqasxhuSRqQlAc1gXsWuH9qbYAnTkrEmINI84K7nA+FGf8e7yWhG3xyLvCvjLLaWkY5y8F13L9R0Ikk0jHczLLsPrYB2UNu+hEfODuWc+YmBjFsi9PMeua+EHGpTt80+qeeNbRYEIoGDYCwqOJxXRoS3dJ7wMEryo2kA=="
-        },
-        {
-            "key": "二三",
-            "name": "🍣二三┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "playerType": 2,
-            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar",
-            "ext": "ni5dRSBWYeWhGp9alBqGZFy2cxtz26FdaJ/QZR3uvYHu9qLW4lPQLU+hcdUiiaXJew0vfxRmUtNfNYAmajbjb4RDtpFTQP6OXMwKde/57Zt4XWW050MS+LSGpY1MJ5sF0LbC6dp2eq+YITaBvAlQei9XNFspAglOkriJJPjqV+G+BYTm85/G7xQ5Q+5abqF10GAuh6RsTe0nBAu89yt3VeP7fPIBbQB64/fsueEYl4YL+1TSVV81RLMo7OKk45K571c53EbrgrrIQJdNIfgHLcz/uys5oaLnVhYv7BhMm3hVhlNKh+c9BkIzWRTvZaQj/wd8nI8hA4UDyAR4D9x74sQ=="
-        },
+    
+    
         
        {"key":"csp_Czsapp",
         "name":"🏭厂长┃直链",
@@ -352,6 +335,24 @@
 			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
 		},
+		   {
+            "key": "雷达",
+            "name": "📡电影┃雷达",
+            "type": 1,
+            "api": "https://www.dianyingleida.com/api.php/provide/vod/",
+            "playUrl": "json:http://vip.fxfkfz.top/home/api?type=ys&uid=2691400&key=bdgkmoqrtvxFLPSY14&url=",
+            "categories":["短剧","动漫","电影","电视剧","动画","纪录片","综艺","直播"]         
+              },         
+           {
+           "key": "NOAD",
+           "name": "🎈novip┃视频",
+           "type": 3,
+           "api": "csp_XBPQ",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+           "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/NOVIP.json"}, 
               {  
                 "key": "海星专线",
                 "name": "??海星┃独家",
