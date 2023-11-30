@@ -835,7 +835,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yun3695/json/main/玩偶哥哥.json",
-      "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+      "jar":  "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
      
   },
     {"key":"玩偶哥哥",
@@ -858,7 +858,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-              "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar",
+              "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
             "ext": "https://ghproxy.net/raw.githubusercontent.com/yun3695/json/main/阿里云盘网.json"
         },
          {"key":"真不卡",
@@ -2331,7 +2331,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
    		
        {
@@ -2357,7 +2357,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
       },
      {
       "key": "Alips",
@@ -2379,7 +2379,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar",
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
  
