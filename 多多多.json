@@ -160,22 +160,7 @@
             "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
         },
-          {"key":"君离",
-           "name":"🙈君离┃App",
-           "type":3,
-           "api":"csp_Skapp",
-           "playerType":2,
-           "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-           "ext":"https://jihulab.com/qiaoji/open/-/raw/main/junli"
-           },
-          {"key":"极光",
-           "name":"🌅极光┃App",
-           "type":3,
-           "api":"csp_Skapp",
-           "playerType":2,
-           "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-           "ext":"https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
-          },
+    
         
         {
             "key": "侠客",
