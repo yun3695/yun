@@ -95,17 +95,7 @@
            "filterable":0,
            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar"
              },
-              {"key":"米米",
-               "name":"🌾米米┃App",
-               "type":3,
-               "api":"csp_DDMJ",
-               "searchable":1,
-               "quickSearch":1,
-               "playerType":2,
-               "filterable":1,
-               "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar",
-               "ext":"SH/mFrnkNxW3yGfjsQMa/spNQLSj4cXBkPQdBCpoS+5dAe8dM4kx5F9D999b3VmxATSlMnqeBkngZeXAuoA+dia9lACx7asdTD3/IvfRou4DGshi7Ek1XtelTGe6LMIE8FGcFC1cBOeG0LSJNeeOtZsFFArkq6CKPswMapASiE0Im8Nx46mhP6qpSBCmUBaetb+hJIjF9FzWKDIEkPph1rKgsZzM92QKb8nPwl7nWro5TuG0giAOTdykoZSQ0n5QWXUpbI3X1xI9FD9LUIHX+1D/f9t0aW5IoowQ1Dxbf57aqKExxVVsCysq5pZUvxa8KlZmlKW0uZt8oDfvPeNDF462dZaWmwM1gXxIsDkZBJlFzuK2tjiiHUHLmiD6bbUKCiP9RQDEuWExeWl2SIGRkvKwAlTkSvhxljTFSIpAVU7VtlxnEnCV63zJs2hmSdB2LIGSzdIb/bwaKfgWn6o81B4aLj6zN9skEZ89+Ew+P9rEsRiGB/a+pamwR0twp9KRy9TVH1e97jD55PewP4YzGxvrKlHt0Eyty54EpU0UPkxestEgixPyGU7YVMALQn6z9FRMBGq6uWdEnqqF6dJqxgEsuoyK/ER+axvlBIfEKKqPDuBex1jc507rOwObVngctzdoSvSjZcf+1b4QNL6nO6qIMg9PPq1j8pOv444meaQQ="
-               },
+          
   
             {"key":"超神",
              "name":"🌞超神┃App",
@@ -1615,7 +1605,7 @@
          "quickSearch":1,
          "filterable":1,
          "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
-         "ext":"https://oftens.top/oftensshow/{cateId}-{area}-------{catePg}---{year}.html"},
+         "ext":"https://www.oftens.top/oftensshow/{cateId}-{area}-------{catePg}---{year}.html"},
      
  
      {
@@ -2015,6 +2005,23 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$32"
             }
         },
+        {"key":"西瓜影院",
+         "name":"🍉西瓜┃影院",
+         "type":3,
+         "api":"csp_XBPQ",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
+         "ext":{
+         "简介":"<p>&&</p ></div>",
+         "副标题":"module-item-text\">&&</div>",
+         "线路数组":"data-parent=&&</span></a >",
+         "线路标题":"title=\"&&\"",
+         "分类url":"https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/",
+         "分类":"电影&电视剧&综艺&动漫&电影解说",
+         "分类值":"20&21&22&23&48"
+          }},
         { "key": "996", 
           "name": "💘996┃影视",
           "type": 3, 
