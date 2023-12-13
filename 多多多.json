@@ -105,7 +105,7 @@
              "quickSearch":1,
              "playerType":2,
              "filterable":1,
-             "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
              "ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
              },
            {"key":"河马",
@@ -113,7 +113,7 @@
             "type":3,
             "api":"csp_Hmys",
             "playerType":1,
-            "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext":"https://m.jmzp.net.cn"
             },
             {"key":"天天",
@@ -121,7 +121,7 @@
              "type":3,
              "api":"csp_TTian",
              "playerType":1,
-             "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
              "ext":"http://op.ysdqjs.cn"
             },
          {"key":"巧技一",
@@ -129,7 +129,7 @@
           "type":3,
           "api":"csp_qiao2",
           "playerType":2,
-          "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+          "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
           "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
           },
            {"key":"巧技二",
@@ -137,7 +137,7 @@
             "type":3,
             "api":"csp_qiao2",
             "playerType":2,
-            "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
              },
              
@@ -147,7 +147,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
-            "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
         },
     
@@ -161,7 +161,7 @@
             "quickSearch": 1,
             "playerType": 2,
             "filterable": 1,
-            "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
         },
         {
@@ -173,7 +173,7 @@
             "quickSearch": 1,
             "playerType": 2,
             "filterable": 1,
-            "jar":"http://yun3695.3vhost.club/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
         },
        
@@ -580,43 +580,15 @@
       "searchable": 1,
       "quickSearch": 1
           },
-       	{
-			"key": "csp_XBP南坊",
-			"name": "🏡南坊┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"changeable": 0,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"站名": "南坊影视",
-				"主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
-				"请求头": "User-Agent$Dart/2.19 (dart:io)",
-				"二次截取": "\"data\"*[&&]",
-				"数组": "{&&}",
-				"图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
-				"标题": "\"vod_name\"*\"&&\"",
-				"副标题": "\"vod_remarks\"*\"&&\"",
-				"链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
-				"线路数组": "\"player_info\":{&&}",
-				"线路标题": "\"show\"*\"&&\"",
-				"导演": "vod_director\"*\"&&\"",
-				"主演": "vod_actor\"*\"&&\"",
-				"简介": "vod_blurb\"*\"&&\"",
-				"播放二次截取": "&&[替换]",
-				"播放数组": "urls*\\[&&\\]",
-				"播放列表": "{&&}",
-				"跳转播放链接": "\"url\"*\"&&\"",
-				"播放标题": "\"name\"*\"&&\"",
-				"跳转解析": "默认$空#主线[A]$#主线[B]$https://daina.hk//api//?key=41b637ec6192036e0c35960addd26615&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=#主线[D]$https://sp.huihuidns.cn//api//?key=aTRZhPX8ESjgWVdwDR&url=",
-				"播放链接": "解析+\"url\"*\"&&\"",
-				"搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
-				"分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t",
-				"分类": "电影$2#电视剧$1#综艺$4#动漫$3"
-			}
-		},
+       	{ "key": "南坊", 
+             "name": "☀南坊┃App",
+             "type": 3, 
+             "api": "csp_AppMao",
+             "searchable": 1, 
+             "quickSearch": 1, 
+             "changeable": 1, 
+             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro" 
+             }, 
 		{"key":"贱贱",
          "name":"🐭贱片┃p2p",
          "type":3,
