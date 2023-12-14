@@ -12,17 +12,7 @@
 
   "sites": [
       
-   
-     {
-	"key": "直转点",
-	"name": "🏆直转点播",
-	"type": 3,
-	"api": "http://lgz.hk3.xyyun.publicvm.com/直转点.js",
-	"ext": "http://lgz.hk3.xyyun.publicvm.com/直转点.txt"
-     },
-  
-  
-    {
+         {
             "key": "csp_xBPQ_香蕉AV解说",
             "name": "🏆香蕉解说",
             "type": 3,
