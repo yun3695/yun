@@ -184,7 +184,17 @@
             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
         },
-       
+       {
+			"key": "繁星",
+			"name": "💥繁星┃App",
+			"type": 3,
+			"api": "csp_AppMao",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
+		},
         
        {"key":"csp_Czsapp",
         "name":"🏭厂长┃直链",
@@ -2715,10 +2725,11 @@
     {"name":"解析聚合","type":3,"url":"Web"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
 
-    {"name":"sevenK影","type":1,"url":"http://pandown.pro/app/lvdou.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS"]}},
-    {"name": "熊大直解", "url": "https://www.8090g.cn/?url=" },
+    {"name":"熊大","type":1,"url":"http://139.159.239.156:8090/api/?key=mQJfQnkPuVjH0WOX7u&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS"]}},
+    {"name": "8090a", "url": "https://www.8090g.cn/?url=" },
     {"name": "熊🐻", "type":1,"url": "http://119.91.123.253:1234/Api/cs.php?url=" },
-
+   {"name":"加速","type":1,"url":"https://json.oorl.cn/api/?key=RVTmmCx9NJjSLZ82CK&url="},
+   {"name":"加速2","type":1,"url":"http://json.ovvo.pro/json.php?uid=7842339&key=bdjozBCGHIMNOQ0249&url="},
     {"name":"8090","url":"https://www.8090.la/8090/?url="},
    {"name":"-m3u8-","type":0,"url":"https://jx.m3u8.pw/?url="},
      {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url="},
