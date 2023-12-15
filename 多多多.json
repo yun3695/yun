@@ -1689,18 +1689,7 @@
       "jar": "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
     },
     
-       {
-      "key": "csp_XYQHiker_l0l影院",
-      "name": "🌵l0l┃影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/x3695/xyqhiker/-/raw/main/lol影院.json",
-        "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
-    },
-    
+       
     {
       "key": "csp_XYQHiker_歪片星球",
       "name": "🎑歪片┃星球",
@@ -2084,8 +2073,14 @@
       "分类值":"dy&juji&zongyi&dongman",
       "分类url":"https://www.wangfei.eu/vodshow/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   
       }},
- 
-      
+     {
+      "key": "乌龟影视",
+      "name": "💗乌龟┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "ext": "https://www.wuguiyy.com/show/{cateId}-{area}--{class}-----{catePg}---{year}/"
+      },
      {
       "key": "开心影视",
       "name": "♈开心┃影院",
@@ -2244,6 +2239,8 @@
       "分类值":"1&2&3&4",
       "分类url":"https://www.lggys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     }},
+     
+
     
          {
 	  "key": "小黄人影视",  
