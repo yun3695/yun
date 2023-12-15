@@ -150,7 +150,15 @@
             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
         },
-    
+     {
+            "key": "极光",
+            "name": "🌟极光┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 1,
+            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
+        },
         
         {
             "key": "侠客",
@@ -771,14 +779,15 @@
     "key": "csp_woggcli",
     "name": "🎎玩偶┃T4",
     "type": 4,
-    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=d7dd9f3b991947e291e7cc9bc4af43a5",
+    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=1cb87e9b67aa4b00bca4fe847054a835",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
  
      },
  
-    
+     
+
      
      { "key": "js_nangua",
        "name": "🎃南瓜┃影视", 
@@ -859,6 +868,17 @@
          "quickSearch":1,
          "filterable":1,
          "ext":"https://raw.gitmirror.com/yun3695/json/main/影渣渣影视.json",
+         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+         },
+       
+       {"key": "csp_XYQHiker_COKEMV影院",
+         "name":"⛵COKE┃M V",
+         "type":3,
+         "api":"csp_XYQHiker",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://raw.gitmirror.com/yun3695/XYQHiker/main/COKEMV影院.json",
          "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          },
        
@@ -1914,17 +1934,7 @@
                   "ext":"https://d.kstore.space/download/4344/js/西瓜影视.js"
                 },
           
-            {
-          "key":"兔兔瓜影院",
-          "name":"🐰免瓜┃影院",
-          "type":3,
-          "api":"csp_XBPQ",
-          "searchable":1,
-          "quickSearch":1,
-          "filterable":1,
-          "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
-         "ext":"https://download.kstore.space/download/4344/XBPQ/兔兔瓜.json"
-          },
+       
          {"key":"csp_Ikanbot",
           "name": "👾爱看┃机器",
           "type": 3,
@@ -2199,7 +2209,7 @@
       "线路数组":"<i class=\"fa ds-dianying\">&&/a>",
       "分类url":"http://7xi.tw/vodshow/{cateId}-----------.html"   
     }},
-  
+    
      {
       "key": "光年影院",
       "name": "🌟光年┃影视",
