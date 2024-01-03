@@ -2160,7 +2160,32 @@
       "分类url":"https://www.lggys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     }},
      
-
+        
+   {
+      "key": "二次萌影视网",
+      "name": "💁次萌┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"1&2&3&4",
+      "分类url":"https://www.ecmys.com/vod/show/id/{cateId}/page/{catePg}/year/{year}/"   
+    }},
+     
+   {
+      "key": "毛驴影视网",
+      "name": "🐴毛驴┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "线路数组":"<i class=\"fa ds-dianying\">&&/a>",
+      "分类值":"1&2&3&4",
+      "分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/"   
+    }},
+  
     
          {
 	  "key": "小黄人影视",  
