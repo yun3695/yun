@@ -85,7 +85,12 @@
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA=","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
-     
+         {"key":"drpy_js_影探[V2]",
+          "name":"🌻影探┃App",
+          "type":3,
+          "api":"https://raw.fgit.cf/gaotianliuyun/gao/master/lib/drpy2.min.js",
+          "ext":"https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/yt.js"
+           },
           
           {"key":"看看",
            "name":"🙊看看┃App",
@@ -416,7 +421,16 @@
 				"分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
 				"分类": "电影$1#电视剧$2#动漫$4#综艺$3"
 			}
-		},
+		  },
+		    {
+           "key": "孜然影视",
+           "name": "⛄孜然┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
+          "ext":"https://zrys1.top/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html"   
+          },
+		
            {
            "key": "NOAD",
            "name": "🎈NO┃视频",
@@ -427,19 +441,7 @@
            "filterable": 1,
            "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
            "ext":"https://d.kstore.space/download/4344/XBPQ/NO视频.json"}, 
-              {  
-                "key": "海星专线",
-                "name": "🎓海星┃独家",
-                "type": 3,
-                "api": "csp_XBPQ",
-                "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
-                "ext": {
-                "线路数组":"data-dropdown-value=&&</div>",
-                "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集", 
-                "分类url":"http://120.46.69.145/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   
-              }}, 
-      
-    
+             
           {
           "key":"csp_Kuaikan",
            "name":"💡快看┃影视",
@@ -2129,7 +2131,7 @@
       "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
-      "分类值":"dianying&dianshiju&zongyi&dongman*",
+      "分类值":"dianying&dianshiju&zongyi&dongman",
       "分类url":"https://www.xgitv.com/vshow/{cateId}--------{catePg}---{year}.html"   
     }},
 
@@ -2208,8 +2210,29 @@
       "分类值":"1&2&3&4",
       "分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/"   
     }},
-  
-    
+    {
+      "key": "追剧吧",
+      "name": "🍡追剧┃吧影",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"1&2&3&4",
+      "分类url":"http://kp10.tianshidai.com/show/{cateId}/page/{catePg}/year/{year}.html"   
+    }},
+     {
+      "key": "影视控",
+      "name": "⛲影视┃控吧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"dianyi&dianshiju&zongyi&dongman",
+      "分类url":"https://www.yingshikong1.com/show-{cateId}--------{catepg}---{year}.html"   
+    }},
+      
          {
 	  "key": "小黄人影视",  
 	  "name": "👴黄人┃影视", 
