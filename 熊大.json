@@ -36,16 +36,7 @@
      "quickSearch": 0,
      "filterable": 0
         },
-         {
-       "key":"csp_YGP",
-       "name":"🚀新片┃速递",
-       "type":3,
-       "api":"csp_YGP",
-       "searchable":1,
-       "quickSearch":1,
-       "changeable":0,
-       "jar":"http://52bsj.vip:81/api/v3/file/get/160462/fan74.jar?sign=zP4DwdkHRoCGAwmxwmAm7MM8ulxBxQPo4kUTn1BMaOo%3D%3A0"
-        },
+         
         {"key":"蝴蝶",
          "name":"🌸蝴蝶┃App",
          "type":3,
@@ -75,22 +66,8 @@
       "ext": "FbjKZ1gO+9vW/lMG1kbf3KFJOcdRRa9dZjV5sNjZyiAiFIrzuC+B+AiBr66gS3v8JFCp6GAlh15jDSs8TZ9xUUJWSIfMyhfFQWkbvF9G0uZES7/xMRQyDQblYgchnseI9WjFcawvUYgnp0s34FyoSWRSNbaGnkwSG+sbUDQgHQC27OJ80LtUMfslMshnOlooXyVgqTcIaQ/Q9yBo0whEwdVNusSom0c/aF8a8Kx9VUQvyrXR1QiAaOTApD2mlt22Sr37Fy8ydrucLXxJ6J1OCW3SyebJseTQjNRsxq9nTCdpbpQU7lnKpsH8SVWiD2deZUVCcHAK9H2hztNQnefzlFXBjgqPKok8joi1s0mGjDOl7u4NsAGrthpS8njLiqUUpYrDxNk8n6Ogphl7wV2+Y5LCI0wndR/m7u4YpvGEJog34d3eYf51+YNXoijG2efXaIEyJaO5hUztyQHpd1BADvB1G0M4JtJIa/H8+LWL68pyfvX4aVtYNJd9x+guuyYSg62VRXldGfiZHotKQzt5IUU7+RglojrBObmiaMpDvvWuBnebHgkeTAtC8N7eRRMLjDRYu/XYjTO2IB3FAGYSgw5li+OGkSfqksC8t0knJFJY9rwYvb4UjbV44cLlVhCpaZzzbZiPuWGoLddCMSsGezEqJZNJ366f3miNVx+b8sT2yYxkbJYFuGU2fINo5mcjUx3xx9OJuoOFeqgWf/xgzO7A8I78W7gHtAgNIXk8ZATv4dDQznnDKkCF3JJVJ4hq/S2KuyLbxAkmxbDLVSTIlhT0jYXVIB32Oao7c/dfqYbcYpi/4eXpE5kkQsqrLhxYpJoST9h7ipWZFeAnAoQTniq7o/MjwnBjGPARVbie9/xzKeudpZeyMUYOizkMs0dyvBkbwx9g8VmpPsZ4JFnxRItAfKFOuaWYHIdbEcXZeaty67lU9eto9iQPpRfnEN+uuIushEiyE5nHVAl+cnVZPhe9xDmRn23IdTqNhI8Pf7fw+6708NGao7mnJNmcBkgmMO7mJEnwta5cwcv4UOZcoKRQ07tIih23yIq+s4LipF08dRsrcLoD9u1o"
     },
     
-       {
-            "key": "蜂鸟1",
-            "name": "🐝蜂鸟┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA=","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-         {"key":"drpy_js_影探[V2]",
-          "name":"🌻影探┃App",
-          "type":3,
-          "api":"https://raw.fgit.cf/gaotianliuyun/gao/master/lib/drpy2.min.js",
-          "ext":"https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/yt.js"
-           },
+     
+       
           
           {"key":"看看",
            "name":"🙊看看┃App",
@@ -103,16 +80,7 @@
              },
           
      
-          {
-      "key": "电影",
-      "name": "🗽电影┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-        },
+      
            {"key":"河马",
             "name":"🐮河马┃App",
             "type":3,
@@ -146,17 +114,17 @@
             "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
              },
              
-        {
-            "key": "巧技三",
-            "name": "💐熊三┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
-        },
+     
     
-      
+      {
+      "key": "巧技四",
+      "name": "🌷熊三┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 1,
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
+       },
        {
 			"key": "繁星",
 			"name": "💥繁星┃App",
@@ -168,7 +136,28 @@
 			"changeable": 0,
 			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
 		},
-        
+          {"key": "ytvip",
+           "name": "💇🏻‍♀️影探┃App",
+           "type": 3,
+           "api": "csp_AppYsV2",
+           "ext": "http://wvvipcms.lyyytv.cn:80/api.php/app/",
+           "searchable": 1,
+           "changeable": 1,
+           "jar":"https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar" 
+              },
+      {
+          "key": "超神",
+          "name": "🌷超神┃App",
+          "type": 3,
+          "api": "csp_qiao",
+          "searchable": 1,
+          "quickSearch": 1,
+          "playerType": 2,
+          "filterable": 1,
+          "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+          "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
+           },
+
       
            {
 			"key": "加速",
@@ -181,14 +170,7 @@
 			"ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
 		},
   
-         {
-			"key": "apv2_COKEMV",
-			"name": "💦可乐┃影视",
-			"type": 3,
-			"api": "csp_AppYs",
-			"ext": "https://cokemv.co/xgapp.php/v2/",
-			"jar":"https://notabug.org/x715/jar/raw/master/XYQ.jar"
-		},    
+        
            {"key":"一起看",
             "name":"🎉一起┃App",
             "type":3,
