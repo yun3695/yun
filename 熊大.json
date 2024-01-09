@@ -37,14 +37,12 @@
      "filterable": 0
         },
          
-        {"key":"蝴蝶",
-         "name":"🌸蝴蝶┃App",
-         "type":3,
-         "api":"csp_Hudie",
-         "playerType":2,
-         "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar",
-         "ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
-          },
+        {
+      "key": "乐视",
+      "name": "🦄乐视┃App",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/"
+        },
        
             {"key":"星星",
              "name":"⭐星星┃App",
@@ -65,7 +63,7 @@
       "changeable": 1,
       "ext": "FbjKZ1gO+9vW/lMG1kbf3KFJOcdRRa9dZjV5sNjZyiAiFIrzuC+B+AiBr66gS3v8JFCp6GAlh15jDSs8TZ9xUUJWSIfMyhfFQWkbvF9G0uZES7/xMRQyDQblYgchnseI9WjFcawvUYgnp0s34FyoSWRSNbaGnkwSG+sbUDQgHQC27OJ80LtUMfslMshnOlooXyVgqTcIaQ/Q9yBo0whEwdVNusSom0c/aF8a8Kx9VUQvyrXR1QiAaOTApD2mlt22Sr37Fy8ydrucLXxJ6J1OCW3SyebJseTQjNRsxq9nTCdpbpQU7lnKpsH8SVWiD2deZUVCcHAK9H2hztNQnefzlFXBjgqPKok8joi1s0mGjDOl7u4NsAGrthpS8njLiqUUpYrDxNk8n6Ogphl7wV2+Y5LCI0wndR/m7u4YpvGEJog34d3eYf51+YNXoijG2efXaIEyJaO5hUztyQHpd1BADvB1G0M4JtJIa/H8+LWL68pyfvX4aVtYNJd9x+guuyYSg62VRXldGfiZHotKQzt5IUU7+RglojrBObmiaMpDvvWuBnebHgkeTAtC8N7eRRMLjDRYu/XYjTO2IB3FAGYSgw5li+OGkSfqksC8t0knJFJY9rwYvb4UjbV44cLlVhCpaZzzbZiPuWGoLddCMSsGezEqJZNJ366f3miNVx+b8sT2yYxkbJYFuGU2fINo5mcjUx3xx9OJuoOFeqgWf/xgzO7A8I78W7gHtAgNIXk8ZATv4dDQznnDKkCF3JJVJ4hq/S2KuyLbxAkmxbDLVSTIlhT0jYXVIB32Oao7c/dfqYbcYpi/4eXpE5kkQsqrLhxYpJoST9h7ipWZFeAnAoQTniq7o/MjwnBjGPARVbie9/xzKeudpZeyMUYOizkMs0dyvBkbwx9g8VmpPsZ4JFnxRItAfKFOuaWYHIdbEcXZeaty67lU9eto9iQPpRfnEN+uuIushEiyE5nHVAl+cnVZPhe9xDmRn23IdTqNhI8Pf7fw+6708NGao7mnJNmcBkgmMO7mJEnwta5cwcv4UOZcoKRQ07tIih23yIq+s4LipF08dRsrcLoD9u1o"
     },
-    
+  
      
        
           
@@ -85,7 +83,7 @@
             "name":"🐮河马┃App",
             "type":3,
             "api":"csp_Hmys",
-            "playerType":1,
+            "playerType":2,
             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext":"https://m.jmzp.net.cn"
             },
@@ -199,17 +197,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%A4%A7%E9%B9%8F.js"},
-    
-             {
-			"key": "赞赞",
-			"name": "👍赞赞┃切片",
-			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		   },
+     {
+      "key": "亮亮",
+      "name": "👍赞赞┃App",
+      "type": 3,
+      "api": "http://xn--yet226clhctt4b.xyz:66/lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.xyz:66/js/亮亮.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+      },
 		 { "key": "萌米",
       "name": "🌮萌米┃App",
       "type": 3,
@@ -237,6 +234,18 @@
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
       },
+      {
+      "key": "meowtv_sxys",
+      "name": "🐵师兄┃App",
+      "type": 3,
+      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.meowtv.cn/js/师兄影视.js"
+    },
+      
+      
            {
 			"key": "嘿嘿2",
 			"name": "📰嘿嘿┃影视",
@@ -675,25 +684,7 @@
 				"搜索数组": "<li class=\"active clearfix&&</li"
 			}
 		},
-		{
-			"key": "apv2_瑞丰",
-			"name": "⛄瑞丰┃影视",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"ext": "http://www.miniku.cc/xgapp.php/v2/",
-			"jar":"https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
-		    },	
-	     
-      {"key":"Pan99","name":"🌻云盘┃9 9",
-       "type":3,
-       "api":"csp_Pan99",
-       "quickSearch":1,
-       "changeable":1,
-       "filterable":1,
-       "timeout":30, 
-       "jar":"https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/pg.jar",
-       "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://pan99.xyz$$$null$$$1$$$./json/wogg.json"
-       },
+		
 
          {"key":"校长影视",
           "name":"🍁云盘┃校长",
@@ -867,8 +858,6 @@
      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
       }, 
 
-    
-      
          {"key":"真不卡",
           "name":"🍡不卡┃影视",
           "type":3,
