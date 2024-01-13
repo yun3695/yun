@@ -64,7 +64,16 @@
       "ext": "FbjKZ1gO+9vW/lMG1kbf3KFJOcdRRa9dZjV5sNjZyiAiFIrzuC+B+AiBr66gS3v8JFCp6GAlh15jDSs8TZ9xUUJWSIfMyhfFQWkbvF9G0uZES7/xMRQyDQblYgchnseI9WjFcawvUYgnp0s34FyoSWRSNbaGnkwSG+sbUDQgHQC27OJ80LtUMfslMshnOlooXyVgqTcIaQ/Q9yBo0whEwdVNusSom0c/aF8a8Kx9VUQvyrXR1QiAaOTApD2mlt22Sr37Fy8ydrucLXxJ6J1OCW3SyebJseTQjNRsxq9nTCdpbpQU7lnKpsH8SVWiD2deZUVCcHAK9H2hztNQnefzlFXBjgqPKok8joi1s0mGjDOl7u4NsAGrthpS8njLiqUUpYrDxNk8n6Ogphl7wV2+Y5LCI0wndR/m7u4YpvGEJog34d3eYf51+YNXoijG2efXaIEyJaO5hUztyQHpd1BADvB1G0M4JtJIa/H8+LWL68pyfvX4aVtYNJd9x+guuyYSg62VRXldGfiZHotKQzt5IUU7+RglojrBObmiaMpDvvWuBnebHgkeTAtC8N7eRRMLjDRYu/XYjTO2IB3FAGYSgw5li+OGkSfqksC8t0knJFJY9rwYvb4UjbV44cLlVhCpaZzzbZiPuWGoLddCMSsGezEqJZNJ366f3miNVx+b8sT2yYxkbJYFuGU2fINo5mcjUx3xx9OJuoOFeqgWf/xgzO7A8I78W7gHtAgNIXk8ZATv4dDQznnDKkCF3JJVJ4hq/S2KuyLbxAkmxbDLVSTIlhT0jYXVIB32Oao7c/dfqYbcYpi/4eXpE5kkQsqrLhxYpJoST9h7ipWZFeAnAoQTniq7o/MjwnBjGPARVbie9/xzKeudpZeyMUYOizkMs0dyvBkbwx9g8VmpPsZ4JFnxRItAfKFOuaWYHIdbEcXZeaty67lU9eto9iQPpRfnEN+uuIushEiyE5nHVAl+cnVZPhe9xDmRn23IdTqNhI8Pf7fw+6708NGao7mnJNmcBkgmMO7mJEnwta5cwcv4UOZcoKRQ07tIih23yIq+s4LipF08dRsrcLoD9u1o"
     },
   
-     
+      {
+      "key": "小柚",
+      "name": "🍊小柚┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+       },
        
           
           {"key":"看看",
@@ -156,7 +165,15 @@
           "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
            },
 
-      
+        {"key":"晴天",
+         "name":"🌞晴天｜App",
+         "type":3,
+         "api":"csp_AppYsV2",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"
+          },
            {
 			"key": "加速",
 			"name": "🐰加速┃APP",
@@ -886,7 +903,17 @@
            "quickSearch": 1 
          },
    
-  
+       {
+      "key": "Vidhub视频",
+      "name": "🍀视频┃影库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
+      "ext": "https://d.kstore.space/download/4344/XBPQ/vidhub.json"
+    },
         
       
     
@@ -1070,7 +1097,13 @@
           "api" : "https://download.kstore.space/download/4344/libs/drpy.min.js",
           "ext":"https://download.kstore.space/download/4344/js/超前点播.js"
           },
-      
+             {"key":"vip",
+          "name":"🌷188┃影视",
+          "type": 3,
+          "playerType":1, 
+          "api" : "https://download.kstore.space/download/4344/libs/drpy.min.js",
+          "ext":"https://d.kstore.space/download/4344/js/188影视.js"
+          },
  
      	{
          "key": "🦐",
@@ -1570,15 +1603,7 @@
       "分类url":"https://xxmsrj.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak"   
     }},
      
-        {"key":"往往影视",
-         "name":"💐往往┃影视",
-         "type":3,
-         "api":"csp_XBPQ",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
-         "ext":"https://www.oftens.top/oftensshow/{cateId}-{area}-------{catePg}---{year}.html"},
+     
      
  
      {
@@ -2047,8 +2072,31 @@
          "ext":{"分类url":"https://www.ikanju.vip/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
           }},
-     
-
+       {
+      "key": "往往影视",
+      "name": "💐往往┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://download.kstore.space/download/4344/yun/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"dianyi&dianshiju&zongyi&dongman",
+   
+      "分类url":"https://www.wwys.pro/oftensshow/{cateId}--------{catePg}---{year}.html"   
+        }},
+          {
+      "key": "土豪影视",
+      "name": "👲土豪┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
+      "ext": {
+      "分类":"电影&电视剧&综艺&动漫",
+      "分类值":"1&2&3&4",
+          "搜索url":"https://www.tuhao.tv/vse/-------------.html?wd={wd}",
+   "分类url":"https://www.tuhao.tv/vsh/{cateId}--------{catePg}---{year}.html"   
+    }},
+        
      {
       "key": "麻花影视",
       "name": "🎡麻花┃影院",
