@@ -3,7 +3,7 @@
 //本接口仅限测试之用，请勿乱传、售卖，感谢理解。
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705312570798/fan.txt;md5;adc8de6bb2e015ebbba6eba86901a688",
     "lives": [
         {
             "name": "直播",
@@ -36,7 +36,17 @@
      "quickSearch": 0,
      "filterable": 0
         },
-         
+             {
+      "key": "配置中心",
+      "name": "🎓配置 | 中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "rect",  "ratio": 1},
+      "jar":"https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/pg.jar",
+      "ext": "http://127.0.0.1:9978/file/TV/token.json"
+      },
         {
       "key": "乐视",
       "name": "🦄乐视┃App",
@@ -120,17 +130,37 @@
             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
             "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
              },
-             
+             {
+      "key": "巧技三",
+      "name": "🐼熊三┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+    },
      
     
       {
       "key": "巧技四",
-      "name": "🌷熊三┃App",
+      "name": "🌷熊四┃App",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 1,
       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
+       },
+         {
+      "key": "侠客",
+      "name": "🦅侠客┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
        },
        {
 			"key": "繁星",
@@ -143,15 +173,7 @@
 			"changeable": 0,
 			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
 		},
-          {"key": "ytvip",
-           "name": "💇🏻‍♀️影探┃App",
-           "type": 3,
-           "api": "csp_AppYsV2",
-           "ext": "http://wvvipcms.lyyytv.cn:80/api.php/app/",
-           "searchable": 1,
-           "changeable": 1,
-           "jar":"https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar" 
-              },
+  
       {
           "key": "超神",
           "name": "🌷超神┃App",
@@ -165,15 +187,7 @@
           "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
            },
 
-        {"key":"晴天",
-         "name":"🌞晴天｜App",
-         "type":3,
-         "api":"csp_AppYsV2",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"
-          },
+       
            {
 			"key": "加速",
 			"name": "🐰加速┃APP",
@@ -224,24 +238,17 @@
       "quickSearch": 1,
       "changeable": 0
       },
-		 { "key": "萌米",
-      "name": "🌮萌米┃App",
+		{
+      "key": "萌米",
+      "name": "👀萌米┃App",
       "type": 3,
+      "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_Appto",
-      "jar": "http://小盒酷玩.xyz:75/禁止贩卖",
-      "playerType": 2,
-      "ext": {
-        "key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
-        "ic": "",
-        "token": "",
-        "url": "http://app.mervod.com:9527",
-        "configurl": "/addons/apptov4/app.php/v1/config/get?p=android",
-        "api": "/addons/apptov4/app.php/v1/"
-      }
-    },
-		        {
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+        },
+     {
       "key": "南坊",
       "name": "☀南坊┃App",
       "type": 3,
@@ -250,7 +257,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
-      },
+       },
       {
       "key": "meowtv_sxys",
       "name": "🐵师兄┃App",
@@ -566,37 +573,7 @@
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
-		{
-			"key": "1080看",
-			"name": "📺1080┃视界",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"playerType": "1",
-			"ext": {
-				"主页url": "https://www.1080kanju.com/",
-				"简介": "<p&&</p>",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"影片状态": "集数：&&</div>",
-				"影片类型": "module-info-tag\">&&立即播放",
-				"搜索模式": "1",
-				"搜索url": "https://www.1080kanju.com/vodsearch/wd/{wd}.html",
-				"搜索数组": "module-card-item-class\">&&</a>",
-				"搜索标题": "alt=\"&&\"",
-				"搜索副标题": "note\">&&</div>",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索链接": "href=\"&&\"",
-				"线路数组": "data-dropdown-value=&&</div>",
-				"线路标题": "<span>&&</small>",
-				"分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
-			}
-		},
 		
-
-		
-    
       {
       "key": "csp_午夜",
       "name": "🍓伍月┃影视",
@@ -683,6 +660,16 @@
           "ext":"https://d.kstore.space/download/4344/XQYHiker/电影牛.json",
           "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
        },
+          {"key": "csp_XYQHiker_初恋云",
+          "name":"🌥初恋┃云影",
+          "type":3,
+          "api":"csp_XYQHiker",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "ext":"https://wp.szyyds.cn/f/r1lil/%E5%88%9D%E6%81%8B%E4%BA%91%20.json",
+          "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+         },
      
                 {
 			"key": "双黄",
@@ -701,7 +688,18 @@
 				"搜索数组": "<li class=\"active clearfix&&</li"
 			}
 		},
-		
+		{
+      "key": "影视车",
+      "name": "🚌弹幕 ┃影车",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar":"https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/pg.jar",
+      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$https://www.weixine.net/$$$1$$$./json/wogg.json",
+      "timeout": 30
+      },
 
          {"key":"校长影视",
           "name":"🍁云盘┃校长",
@@ -827,19 +825,7 @@
          "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          },
        
-       {"key": "csp_XYQHiker_COKEMV影院",
-         "name":"⛵COKE┃M V",
-         "type":3,
-         "api":"csp_XYQHiker",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "ext":"https://raw.gitmirror.com/yun3695/XYQHiker/main/COKEMV影院.json",
-         "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
-         },
-       
-     
-      
+ 
            {
             "key": "csp_beijihu",
             "name": "🎪极狐┃影视",
@@ -872,7 +858,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":0,
-     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
       }, 
 
          {"key":"真不卡",
@@ -2342,7 +2328,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"
+     "jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"
+      
         },
        {
       "key": "鲸落",
@@ -2764,6 +2751,11 @@
 				}
 			}
 		},
+       {
+            "name": "快2",
+            "type": 0,
+            "url": "https://www.kuaikanys.net/jiexi/jiekou-1/?url="
+        },
      {"name":"BL","type":0,"url":"https://vip.bljiex.com/?v="},
     {"name": "-咸鱼-","type": 0, "url": "https://jx.xyflv.com/?url="},
     {"name":"量子","type":0,"url":"https://jx.jsonplayer.com/player/?url=","header":{"User-Agent": "Mozilla/5.0"}},
