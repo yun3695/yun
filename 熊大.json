@@ -96,7 +96,16 @@
            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar"
              },
           
-     
+        {
+      "key": "二三",
+      "name": "🍂二三┃App",
+      "type": 3,
+      "api": "csp_Ys23",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+     "jar":"https://gitee.com/xiongdada3695/jar/raw/main/qj0121.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7"
+       },
       
            {"key":"河马",
             "name":"🐮河马┃App",
@@ -115,11 +124,11 @@
              "ext":"http://op.ysdqjs.cn"
             },
          {"key":"巧技一",
-          "name":"🌺熊大┃App",
+          "name":"🦅熊大┃App",
           "type":3,
           "api":"csp_qiao2",
           "playerType":2,
-          "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+          "jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
           "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
           },
            {"key":"巧技二",
@@ -134,10 +143,10 @@
       "key": "巧技三",
       "name": "🐼熊三┃App",
       "type": 3,
-      "api": "csp_qiao2",
+      "api": "csp_Movie2",
       "playerType": 2,
-      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/qj0121.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
+      "ext": "https://www.agit.ai/kankan314/gao8/raw/branch/main/%e5%bd%b1%e8%a7%86/EXT/Movie3"
     },
      
     
@@ -145,23 +154,24 @@
       "key": "巧技四",
       "name": "🌷熊四┃App",
       "type": 3,
-      "api": "csp_qiao2",
+      "api": "csp_Movie2",
       "playerType": 1,
-      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
+      "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
+      "ext": "https://www.agit.ai/kankan314/gao8/raw/branch/main/%e5%bd%b1%e8%a7%86/EXT/Movie4"
        },
-         {
-      "key": "侠客",
-      "name": "🦅侠客┃App",
+           {
+      "key": "巧技五",
+      "name": "💨熊五┃App",
       "type": 3,
-      "api": "csp_qiao",
+      "api": "csp_Movie2",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
-       },
+      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/qj0121.jar;md5;2e85feb2888d9efb5b396258f22841ac",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
+      },
+         
        {
 			"key": "繁星",
 			"name": "💥繁星┃App",
@@ -198,7 +208,16 @@
 			"quickSearch": 1,
 			"ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
 		},
-  
+        {
+      "key": "喵播",
+      "name": "🐱喵喵┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.230.51.151:9696/api.php/app/"
+        },
         
            {"key":"一起看",
             "name":"🎉一起┃App",
@@ -228,16 +247,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%A4%A7%E9%B9%8F.js"},
-     {
-      "key": "亮亮",
-      "name": "👍赞赞┃App",
-      "type": 3,
-      "api": "http://xn--yet226clhctt4b.xyz:66/lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.xyz:66/js/亮亮.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-      },
+  
 		{
       "key": "萌米",
       "name": "👀萌米┃App",
@@ -258,17 +268,17 @@
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
        },
+     
       {
-      "key": "meowtv_sxys",
-      "name": "🐵师兄┃App",
+      "key": "酷影视",
+      "name": "🐦酷影┃App",
       "type": 3,
-      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.meowtv.cn/js/师兄影视.js"
-    },
-      
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+      },
       
            {
 			"key": "嘿嘿2",
