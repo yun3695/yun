@@ -3,7 +3,7 @@
 //本接口仅限测试之用，请勿乱传、售卖，感谢理解。
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706645996429/fan.txt;md5;1ff3df38a66ee5378031e4fac1799596",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
     "lives": [
         {
             "name": "直播",
@@ -54,15 +54,7 @@
       "api": "https://leshizyapi.com/api.php/provide/vod/"
         },
        
-            {"key":"星星",
-             "name":"⭐星星┃App",
-             "type":3,
-             "api":"csp_Appto",
-             "playerType":2,
-             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar",
-              "ext":"DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY="
-             },
-             
+    
     {
       "key": "速映",
       "name": "☀速映┃App",
@@ -84,37 +76,13 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
        },
-       
+    
           
-          {"key":"看看",
-           "name":"🙊看看┃App",
-           "type":3,
-           "api":"csp_KanKan",
-           "searchable":1,
-           "quickSearch":1,
-           "filterable":0,
-           "jar":"https://gitee.com/xiongdada3695/jar/raw/main/fix1110.jar"
-             },
+     
           
-        {
-      "key": "二三",
-      "name": "🍂二三┃App",
-      "type": 3,
-      "api": "csp_Ys23",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-     "jar":"https://gitee.com/xiongdada3695/jar/raw/main/qj0121.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7"
-       },
       
-           {"key":"河马",
-            "name":"🐮河马┃App",
-            "type":3,
-            "api":"csp_Hmys",
-            "playerType":2,
-            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-            "ext":"https://m.jmzp.net.cn"
-            },
+      
+       
             {"key":"天天",
              "name":"🌻天天┃App",
              "type":3,
@@ -123,55 +91,18 @@
              "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
              "ext":"http://op.ysdqjs.cn"
             },
-         {"key":"巧技一",
-          "name":"🦅熊大┃App",
-          "type":3,
-          "api":"csp_qiao2",
-          "playerType":2,
-          "jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
-          "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
-          },
-           {"key":"巧技二",
-            "name":"🌸熊二┃App",
-            "type":3,
-            "api":"csp_qiao2",
-            "playerType":2,
-            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
-            "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
-             },
-             {
-      "key": "巧技三",
-      "name": "🐼熊三┃App",
-      "type": 3,
-      "api": "csp_Movie2",
-      "playerType": 2,
-      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/qj0121.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
-      "ext": "https://www.agit.ai/kankan314/gao8/raw/branch/main/%e5%bd%b1%e8%a7%86/EXT/Movie3"
-    },
     
     
-      {
-      "key": "巧技四",
-      "name": "🌷熊四┃App",
-      "type": 3,
-      "api": "csp_Movie2",
-      "playerType": 1,
-      "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
-      "ext": "https://www.agit.ai/kankan314/gao8/raw/branch/main/%e5%bd%b1%e8%a7%86/EXT/Movie4"
-       },
            {
-      "key": "巧技五",
-      "name": "💨熊五┃App",
+      "key": "咕噜",
+      "name": "💿蓝光┃一线",
       "type": 3,
       "api": "csp_Movie2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/qj0121.jar;md5;2e85feb2888d9efb5b396258f22841ac",
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
-      },
-         
+      "playerType": "2",
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+        },
+
        {
 			"key": "繁星",
 			"name": "💥繁星┃App",
@@ -227,17 +158,7 @@
             "quickSearch": 1,
             "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%A4%A7%E9%B9%8F.js"},
   
-		{
-      "key": "萌米",
-      "name": "👀萌米┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-        },
-    
+		
      
       {
       "key": "酷影视",
