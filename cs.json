@@ -462,15 +462,7 @@
       "quickSearch": 1,
       "filterable": 0
        },
-        {
-      "key":"*kok资源",
-      "name":"🏆KOK资源",
-      "type":1,
-      "api":"https://api.vodkok2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },
+ 
            
        {"key": "AV線上看",
         "name": "🏆AV線上看",
@@ -752,7 +744,7 @@
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
        "ext":{
-       "分类url":"http://hsck745.cc/vodtype/{cateId}-{catePg}.html",
+       "分类url":"http://hsck642.cc/vodtype/{cateId}-{catePg}.html",
        "直接播放":"1",
        "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
        "分类值":"1&2&3&4&8&9&10&7&15&21&22"},
@@ -943,6 +935,49 @@
       "style":{"type":"rect","ratio":1.33
        }},
   
+       {"key":"撸网666",
+       "name":"🏆撸网",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://www.luw666mod.buzz/index.php/vodtype/{cateId}-{catePg}.html",
+       "直接播放":"1",
+       "分类":"国产传媒&日本&国产&韩国&欧美&动画&中字&无码中文&中文字幕&强奸中文&乱伦中文&调教中文&出轨中文&三级&国产乱伦&网爆门",
+       "分类值":"160&2&1&4&5&6&9&34&59&35&37&40&41&11&20&25" },
+       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+      "style":{"type":"rect","ratio":1.33
+       }},
+     {"key":"www",
+       "name":"🏆四虎影院",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://www.sihu.digital/vodtype/{cateId}-{catePg}/",
+       "播放数组":"<table class=\"playlistlink-4 list-15256 clearfix\"&&/table>",
+       "分类":"国产精品&绿帽淫妻&国产探花&传媒影视&色情动漫&三级伦理&国产乱伦&美女主播&明星淫梦&TS人妖&中文字幕&日本有码&高清无码&精品素人&AV解说&VR专区",
+       "分类值":"20&21&22&23&24&25&26&27&28&29&30&31&32&49&50&51" },
+     "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+      "style":{"type":"rect","ratio":1.33
+       }},
+  
+       {"key":"肉铺",
+       "name":"🏆肉铺",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://rroupu4.buzz/list/{cateId}/{catePg}.html",
+        "播放数组":"<div id=\"login_click\"&&/div>",
+       "分类":"国产AV&香港伦理&韩国伦理&国产精品&中文字幕&日本伦理&亚洲情色&无码专区&强奸乱伦&日本无码&中文字图&网爆门&国产&国产伦乱&美女主播&明星淫梦&国产探花&绿帽淫妻&麻豆&高清无码&中文字幕&日本乱伦&欧美&国产裸聊&少女萝莉&国产偷拍&群交淫乱&网红&人妻&长腿丝袜&巨乳&制服丝袜&无码区",
+       "分类值":"ff80808172b90a110172b9a3b1520d42&ff80808172b90a110172b9a3b13c0d41&ff80808172b90a110172b9a3b1650d44&20230211161318661&20230211161318683&ff80808172b90a110172b9a3b15e0d43&ff808081750298e801752e1c5a2052d0&ff808081750298e801752e1c5a6952d3&ff808081750298e801752e1c5a9e52d6&ff80808172b90a110172b90dca830017&ff80808172b90a110172b90dca97001e&20240108174143126&20240108174143007&20240108174143023&20240108174143027&
+       20240108174143032&20240108174143032&20240108174143013&20240108174143047&20240108174143094&20240108174143089&20240108174143129&20240108174143106&ff80808174d0fd350174d94a5017014e&ff80808174d0fd350174d94a50720153&ff80808174d0fd350174d94a503c0150&ff80808174d0fd350174d94a4f950147&ff80808172b90a110172b90dcaa00021&ff80808172b90a110172b90dcace0030&ff80808172b90a110172b90dcac7002d&ff80808174d0fd350174d94a5004014d&ff80808174d0fd350174d94a4f750146&ff80808174d0fd350174d94a4fa70148" },
+     "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+      "style":{"type":"rect","ratio":1.33
+       }},
+  
+    
     
      {"key":"csp_XBPQ_X先生",
       "name":"🏆X先生",
@@ -977,17 +1012,7 @@
       },
    
        
-       {"key":"csp_XYQHiker_https://ioov.cc/",
-        "name": "🏆爱上av(XYQHiker)",
-        "type": 3,
-        "api": "csp_XYQHiker",
-        "searchable": 1,
-        "quickSearch": 0,
-       "filterable": 0,
-       "ext": "https://d.kstore.space/download/4344/XQYHiker/爱上av.json",
-        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
-      },
-      
+    
     
      {"key":"csp_XYQHiker_91在线视频",
       "name": "🏆91在线(XYQHiker)",
@@ -1001,17 +1026,6 @@
       },
       
 
-      {
-         "key": "csp_xBPQ_驶入",
-         "name": "🏆驶入",
-         "type": 3,
-         "api": "csp_xBPQ",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 0,
-         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fkaf1/fk/main/h/驶入.json",
-         "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xb.jar"
-         },
        
       {"key":"https://www.102509.com/",
        "name":"🏆ccc1026视频",
@@ -1337,3 +1351,4 @@
  
      
 }
+    
