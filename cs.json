@@ -91,6 +91,7 @@
       "filterable": 1,
 	 "ext": "http://152.32.170.60/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉视频.json"
     },
+  
       {
         "key": "csp_xBPQ_香蕉直播",
         "name": "🏆香蕉直播",
@@ -137,6 +138,17 @@
       "filterable": 1,
 	 "ext": "http://152.32.170.60/138001380000/MHQTV/raw/branch/master/xBPQ/麻豆映画.json"
         },
+              {
+        "key": "csp_XBPQ_天天综合",
+        "name": "🏆香蕉综合",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/xyqlgz.jar",
+       "ext": "https://d.kstore.space/download/4344/XBPQ/天天综合.json"
+      },
         {"key":"csp_xBPQ_tt",
          "name":"🏆天天综合",
          "type":3,
@@ -145,7 +157,7 @@
          "quickSearch":1,
          "filterable":0,
          "ext":{"站名":"天天综合",
-         "主页url":"https://20jjkk.vip/",
+         "主页url":"https://26jjkk.vip/",
          "直接播放":"1",
          "图片":"data-original=\"&&\"",
          "标题":"title=\"&&\"",
@@ -153,7 +165,7 @@
          "副标题":"<div class=\"duration\">&&</div>",
          "简介":"<title>&&</title>",
          "搜索模式":"1",
-         "搜索url":"https://20jjkk.vip/vod/search/page/{pg}/wd/{wd}/",
+         "搜索url":"https://26jjkk.vip/vod/search/page/{pg}/wd/{wd}/",
          "搜索图片":"data-original=\"&&\"",
          "搜索标题":"title=\"&&\"",
          "搜索链接":"href=\"&&\"",
@@ -161,7 +173,7 @@
          "免嗅":"0",
          "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
          "分类":"天天综合$/xjzy/cn-zhongwenhushi",
-         "分类url":"https://20jjkk.vip/{cateId}/{catePg}.html",
+         "分类url":"https://26jjkk.vip/{cateId}/{catePg}.html",
          "筛选":{"/xjzy/cn-zhongwenhushi":[
          {"key":"cateId","name":"中文字幕", "value":[
          {"n":"无码中文","v":"/xjzy/cn-zhongwenwuma"},
