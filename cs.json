@@ -17,8 +17,8 @@
       {"key": "直转点",
        "name": "🏆熊大专享",
        "type": 3,
-       "api":"http://gzy.1.hk3.345123.xyz/直转点.js",
-       "ext":"http://gzy.1.hk3.345123.xyz/直转点.txt"
+       "api":"http://gzy.3.hk3.345123.xyz/直转点.js",
+       "ext":"http://gzy.3.hk3.345123.xyz/直转点.txt"
         },
          {
             "key": "csp_xBPQ_香蕉AV解说",
@@ -114,8 +114,8 @@
        {"key":"drpy_js_色色",
         "name":"🏆涩涩直播",
         "type":3,
-         "api":"http://gzy.1.hk3.345123.xyz/json/drpy.min.js",
-         "ext":"http://gzy.1.hk3.345123.xyz/json/ss直播.js",
+         "api":"http://gzy.3.hk3.345123.xyz/json/drpy.min.js",
+         "ext":"http://gzy.3.hk3.345123.xyz/json/ss直播.js",
          "playerType":"1"
           }, 
         {
@@ -136,8 +136,45 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	 "ext": "http://152.32.170.60/138001380000/MHQTV/raw/branch/master/xBPQ/麻豆映画.json"
+	 "ext": "https://notabug.org/x715/XBPQ/raw/master/%e9%ba%bb%e8%b1%86%e6%98%a0%e7%94%bb.json"
         },
+        {"key":"mtkan",
+         "name":"🏆每天必看",
+         "type":3,
+         "api":"csp_XBPQ",
+         "searchable":1,
+         "quickSearch":1,
+         "changeable":1,
+         "jar":"http://gzy.3.hk3.345123.xyz/json/xyq.jar",
+          "ext":{"请求头":"手机",
+          "站名":"顶级国产av",
+          "主页url":"https://qoqavideo2t.click/aovaov",
+          "分类url":"https://qoqavideo2t.click/vodtype/{cateId}-{catePg}.html",
+          "直接播放":"0",
+          "分类":"中文字幕&日本有码&日韩无码&av解说&国产情色&重口激情&强奸乱伦&制服黑丝&网爆吃瓜&变态调教&抖阴短片&少女萝莉&三级伦理&探花约炮&传媒剧情&明星偶像&女同性恋&人妖系列&网红黑料&ai换脸&欧美性爱&剧情动漫",
+          "分类值":"154&163&162&149&151&152&155&156&158&159&161&164&165&168&146&167&169&170&171&41&153&150",
+          "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a"}},
+        
+           {"key":"www.17c.com",
+            "name":"🏆一起艹",
+            "type":3,
+             "api":"csp_XBPQ",
+             "searchable":1,
+             "quickSearch":1,
+             "changeable":1,
+             "jar":"https://gitee.com/xiongdada3695/jar/raw/main/xyqlgz.jar",
+             "ext":{"请求头":"手机",
+             "发布地址":"https://www.17caaf.com:8888/",
+             "直接播放":"1",
+             "数组":"<div class=\"vs_dc3b5d1a3f59ee19cb5e6a4dbe162e0f-item-vide-n&&</a>",
+             "标题":"rank-title\">&&</div>",
+              "图片":"data-src=\"&&\"",
+              "副标题":"<span>&&</span>",
+               "搜索模式":"1",
+               "搜索url":"https://www.17caaf.com:8888/search/1.html?keyword={wd}",
+               "分类url":"https://www.17caaf.com:8888/category/1.html?category_id={cateId}&page={catePg}",
+               "分类":"吃瓜&国产&原创&传媒&日韩&欧美&动漫&主播&AV解说",
+               "分类值":"14&1&40&2&3&4&5&7&8"}},
               {
         "key": "csp_XBPQ_天天综合",
         "name": "🏆香蕉综合",
@@ -149,6 +186,7 @@
        "jar":"https://gitee.com/xiongdada3695/jar/raw/main/xyqlgz.jar",
        "ext": "https://d.kstore.space/download/4344/XBPQ/天天综合.json"
       },
+      
         {"key":"csp_xBPQ_tt",
          "name":"🏆天天综合",
          "type":3,
@@ -157,7 +195,7 @@
          "quickSearch":1,
          "filterable":0,
          "ext":{"站名":"天天综合",
-         "主页url":"https://26jjkk.vip/",
+         "主页url":"https://27jjkk.vip/",
          "直接播放":"1",
          "图片":"data-original=\"&&\"",
          "标题":"title=\"&&\"",
@@ -165,7 +203,7 @@
          "副标题":"<div class=\"duration\">&&</div>",
          "简介":"<title>&&</title>",
          "搜索模式":"1",
-         "搜索url":"https://26jjkk.vip/vod/search/page/{pg}/wd/{wd}/",
+         "搜索url":"https://27jjkk.vip/vod/search/page/{pg}/wd/{wd}/",
          "搜索图片":"data-original=\"&&\"",
          "搜索标题":"title=\"&&\"",
          "搜索链接":"href=\"&&\"",
@@ -173,7 +211,7 @@
          "免嗅":"0",
          "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
          "分类":"天天综合$/xjzy/cn-zhongwenhushi",
-         "分类url":"https://26jjkk.vip/{cateId}/{catePg}.html",
+         "分类url":"https://27jjkk.vip/{cateId}/{catePg}.html",
          "筛选":{"/xjzy/cn-zhongwenhushi":[
          {"key":"cateId","name":"中文字幕", "value":[
          {"n":"无码中文","v":"/xjzy/cn-zhongwenwuma"},
@@ -839,13 +877,13 @@
        "jar":"https://download.kstore.space/download/4344/jar/fan.txt",
       "style":{"type":"rect","ratio":1.33
        }},
-     {"key":"精品www.ajxll9.buzz",
+     {"key":"精品www.ajxll12.buzz",
        "name":"🏆傲娇小萝莉",
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
-       "ext":{"分类url":"https://www.ajxll9.buzz/vod/type/id/{cateId}/page/{catePg}.html",
+       "ext":{"分类url":"https://www.a1212.buzz/vod/type/id/{cateId}/page/{catePg}.html",
           "直接播放":"1",
        "分类":"国产黄片&日韩精品&免费精品&国产乱伦&国产精品&国产探花&美女主播&网曝门事件&明星淫梦&国产视频&国产主播&日本乱伦&中文字幕&高清无码&精品素人&女优明星&制服诱惑&强奸乱伦&SM调教&扣扣传媒&果冻传媒&星空无限",
        "分类值":"1&2&3&6&7&8&9&10&11&12&4&13&14&15&16&21&22&23&24&25&26&27" },
@@ -1505,7 +1543,7 @@
 	"cms.qdwght.com"
     ],
   "wallpaper": "https://yydsys.top/bg.php","warningText":"使用本接口前，请务必刷新",
-    "spider": "https://download.kstore.space/download/4344/jar/Yoursmile.jar"
+    "spider": "https://cloud.lxweb.cn/f/jRgZuy/Yoursmile.jar"
  
      
 }
