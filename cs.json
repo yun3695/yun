@@ -11,7 +11,7 @@
   ],
 
   "sites": [
-          
+         
  
     
       {"key": "直转点",
@@ -20,6 +20,24 @@
        "api":"https://gitee.com/xiongdada3695/js/raw/main/直转点.js",
        "ext":"https://gitee.com/xiongdada3695/js/raw/main/直转点.txt"
         },
+          {
+      "key": "XMVideo",
+      "name": "🏆熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,
+      "jar":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar"
+         },
+            {
+      "key": "Cg51",
+      "name": "🏆吃瓜 | 图密√",
+      "type": 3,
+      "api": "csp_Cg51",
+      "searchable": 1,
+      "filterable": 1,
+      "jar":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar"
+         },
          {
             "key": "csp_xBPQ_香蕉AV解说",
             "name": "🏆香蕉解说",
@@ -589,7 +607,13 @@
          "quickSearch": 1,
          "filterable": 0
          }, 
-
+             {"key":"草帽资源",
+           "name":"🏆草帽资源",
+           "type":1,
+           "api":"https://cmzy.top/api.php/provide/vod/?ac=list",
+           "searchable":1
+           },
+      
          {"key":"langqun换系统播放器才能播放",
           "name":"🏆狼群",
           "type":3,
@@ -637,6 +661,8 @@
            "分类": "3D&素人&日本女优&自拍&金发洋物",
            "分类值": "3d&amateur&japanese&selfie&western"
              }},      
+             
+
              {"key":"泥巴",
               "name":"🏆泥巴🪜",
               "type":3,
@@ -659,6 +685,59 @@
           "searchable":1,
          "jar":"https://7114.kstore.space/jar/18.jar"
          },
+         {
+            "key": "csp_顶级网曝",
+            "name": "🏆顶级网曝",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+            "ext": {
+                "请求头": "手机",
+                "站名": "顶级网曝",
+                "主页url": "https://www.djwb3.top/",
+                "数组": "<li class=\"content-item\">&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "播放数组": "<td>&&</td>",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+                "免嗅": "0",
+                "搜索url": "https://www.djwb3.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "嗅探词": ".m3u8#.mp4",
+                "分类url": "https://www.djwb3.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类数组": "<li&&</li>",
+                "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+                "分类ID": "/index.php/vod/type/id/&&.html"
+            }
+        },
+            {
+            "key": "我爱AV",
+            "name": "🏆我爱AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+           "jar":"https://cloud.lxweb.cn/f/bDzOCp/Xymz.jar",
+            "ext": {
+                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
+                "副标题": "span class=\"pic-text text-right\">&&</p",
+                "线路数组": "<li&&</li>",
+                "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
+                "播放标题": ">&&</a",
+                "搜索模式": "1",
+                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+                "分类数组": "<li&&</li>",
+                "分类标题": ">&&</a",
+                "分类ID": "/vodtype/&&.html",
+                "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
+            }
+        },
          {"key":"国产",
        "name":"🏆顶级国产",
        "type":3,
@@ -1145,7 +1224,7 @@
      "lives": [
       {
             "name": "影视",
-            "url": "https://download.kstore.space/download/4344/yun/yun.txt",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/yun3695/yun/main/yun.txt",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
