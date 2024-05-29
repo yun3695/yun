@@ -1,20 +1,23 @@
 {
     "urls": [
-        {"url":"https://codeberg.org/xiong715/xy/raw/branch/main/熊大.json","name":"🌹熊大C"},
-        {"url":"https://raw.gitmirror.com/yun3695/yun/main/熊大.json","name":"🌹熊大g"},
+        {"url":"http://yun3695.3vdo.club/熊大.json","name":"🌹熊大3v"},
+        {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yun3695/yun/main/%E7%86%8A%E5%A4%A7.json","name":"🌹熊大g"},
         {"url":"https://download.kstore.space/download/4344/yun/熊大.json","name":"🌹熊大K"},
-        {"url": "http://itvbox.cc/sft/sft.m3u8","name": "💐爽翻天主线路"},
+        {"url":"https://www.gitlink.org.cn/api/yun3695/666/raw/熊大.json?ref=master","name":"🌹熊大gitlink"},
+        {"url":"http//yun3695.serv00.net/熊大.json","name":"🌹3695熊大serv00"},
+       {"url":"http://小盒酷玩.xyz:66/🈲止贩卖","name":"🌹小盒酷玩"},
+       {"url": "http://itvbox.cc/sft/sft.m3u8","name": "💐爽翻天主线路"},
 		{"url": "http://w.g9.pub:66/f/6Y3sy/%E7%88%BD%E7%BF%BB%E5%A4%A9.txt","name": "💐爽翻天备用线路"},
         {"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "🌥️云星家庭版线路"},
 		{"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "💖肥猫Panda线路"},
 		//{"url": "https://hutool.ml/tang","name": "💖唐三线路"},
 		{"url": "http://饭太硬.top/tv","name": "💖饭太硬线路"},
 		{"url": "https://max.lianyingtv.com/uploads/itvbox/api.json","name": "💖新恋影线路"},
-	    {"url": "http://xhww.fun:63/小米/DEMO.json","name": "💖小米线路"},
+	    {"url": "http://xhww.fun/小米/DEMO.json","name": "💖小米线路"},
         {"url": "http://ysc.weixine.net:33/","name": "💖运输车线路"},
         {"url": "https://pastebin.com/raw/5NHaxyGR","name": "🌼道长线路"},
 		{"url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name": "🚀香雅情线路"}, 
-		//https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
+		//https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
 		//{"url": "http://xn--00xa.top:88/XYQTVBox/XYQTVBox.json","name": "🚀香雅情线路"}, 
         {"url": "http://jxym.ygx888.com/vip/api.json","name": "⭐星视界线路"},
         {"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "🎉月光线路1"},
@@ -94,7 +97,7 @@
 		{"url": "https://out.zxglife.top/down.php/5da920895444ba485dde96b5425b8a67.txt","name": "✡️未知线路1"},
 		{"url": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json","name": "✡️未知线路2"},
 		{"url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json","name": "✡️未知线路3"},
-		{"url":"https://raw.gitmirror.com/yun3695/yun/main/cs.json","name":"🌹18+"}
+		{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yun3695/yun/main/cs.json","name":"🌹18+"}
     ]
 }
 
