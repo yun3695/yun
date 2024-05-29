@@ -9,7 +9,7 @@
             "name": "直播",
             "type": 0,
             "playerType": 1,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/yun3695/yun/main/yun.txt",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yun3695/yun/main/yun.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -180,30 +180,8 @@
       },
       "jar": "https://cloud.lxweb.cn/f/eAp9sa/danmu.jar"
     },
-        {
-      "key": "酷看弹幕",
-      "name": "🐰酷看┃App",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "jar": "https://cloud.lxweb.cn/f/eAp9sa/danmu.jar"
-    },
-     {
-        "key": "zhuiyi",
-        "name": "🐉追忆┃App",
-        "type": 3,
-        "api": "csp_App",
-        "searchable": 1,
-        "filterable": 1,
-        "changeable": 1,
-         "jar": "http://47.93.215.151/YSZYZ.jar",
-        "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
-    },
+   
+  
      {
       "key": "小柚",
       "name": "🍊柚子┃App",
@@ -304,6 +282,7 @@
       "quickSearch": 1,
       "changeable": 1
     },   
+       
       {
 		    "key": "电影狗",
 		    "name": "🎬电影┃App",
@@ -353,6 +332,7 @@
       "filterable": 1,
       "changeable": 0
     },
+  
        {
       "key": "糯米",
       "name": "🍙农民┃秒播",
@@ -518,14 +498,7 @@
 			}
 		},         
      
-			{
-			"key": "包子",
-			"name": "🍙包子┃影视",
-			"type": 1,
-			"api": "http://cj.baozi66.top:66/api.php/provide/vod?",
-			"searchable": 1,
-			"changeable": 1
-		},
+			
 		{
       "key": "白嫖电影5",
       "name": "👻白嫖┃电影",
@@ -903,6 +876,8 @@
       "ext": "https://4344.kstore.space/XQYHiker/影搜.json",
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
         },
+          
+        
         {"key":"秒搜",
           "name":"📀秒搜┃网盘",
           "type":3,
@@ -951,16 +926,6 @@
         "分类url": "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"
       }
     },
-        {"key": "csp_XYQHiker_A8影视",
-          "name":"🎱A 8┃影视",
-          "type":3,
-          "api":"csp_XYQHiker",
-          "searchable":1,
-          "quickSearch":1,
-          "filterable":1,
-          "ext":"https://ghproxy.net/raw.githubusercontent.com/yun3695/json/main/A8影视.json",
-          "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
-       },
  
          {"key": "csp_XYQHiker_影视工场",
          "name":"🏭影视┃工场",
@@ -973,9 +938,7 @@
          "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
          },
       
-
-             
-
+     
        {
           "key": "影渣影视",
           "name": "🍁渣渣┃影院",
@@ -1759,7 +1722,7 @@
 
              {
             "key": "XYQH_TVB",  
-            "name": "🎬TVB┃云播",  
+            "name": "??TVB┃云播",  
             "type": 3,  
             "api": "csp_XYQBiu",  
             "searchable": 1,  
@@ -2338,24 +2301,40 @@
 
     },
     
+     {
+            "key": "胖虎影视",
+            "name": "🐯胖虎┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": "2",
+            "jar":"https://cloud.lxweb.cn/f/xj28TM/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+            "ext": {
+            "请求头": "手机",
+              "发布页": "https://www.cdnkan.top/",
+               "主页url": "https://physvod.com/",
+                "数组": "",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "class=\"module-info-item\">&&</div>",
+                "链接": "",
+                "简介": "",
+                "搜索模式": "1",
+                "搜索url": "https://www.panghuys.com/phsch.html?wd={wd}",
+                "搜索数组": "module-card-item-class&&</span></a",
+                "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://physvod.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影&电视剧&动漫&综艺&短剧&解说&其他&",
+                "分类值": "1&2&4&3&7&8&9&"
+            }
+        },
+      
+   
+   
      
-      
-   
-   
-      {
-      "key": "csp_胖虎",
-      "name": "🐯胖虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://cloud.lxweb.cn/f/xj28TM/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
-      "ext": "https://download.kstore.space/download/4344/XBPQ/胖虎影视.json"
-      },
-      
-         
-  
       {
         "key": "zy_新浪资源",
         "name": "🏄🏻新浪┃资源",
