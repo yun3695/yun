@@ -528,7 +528,7 @@ CCTV女性时尚,http://47.243.121.157/cqyx.php?id=nxss
 
 CCTV高尔夫网球,http://47.243.121.157/cqyx.php?id=gefwq
 
-CCTV央视台球,http://47.243.121.157/cqyx.php?id=ystq
+CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8 #http://47.243.121.157/cqyx.php?id=ystq
 种养新影-中学生,http://47.243.121.157/cqyx.php?id=zxs
 
 种养新影-发现之旅,http://47.243.121.157/cqyx.php?id=fxzl
@@ -871,7 +871,7 @@ CGTN纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888
 CETV-01,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225652/index.m3u8
 CETV-04,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225783/index.m3u8
 
-央视台球,http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8#http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
 
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
 
