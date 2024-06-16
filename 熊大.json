@@ -249,8 +249,52 @@
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
   "免嗅": "0" 
 }},    
+        {
+      "key": "Wexwencai",
+      "name": "🎇熊三┃App",
+      "type": 3,
+      "api": "csp_Wexwencai",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+    },
+       {
+      "key": "Wexdiguatv",
+      "name": "⛷️追剧┃App",
+      "type": 3,
+      "api": "csp_Wexdiguatv",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+    },
+        {
+      "key": "Wexbaipiao",
+      "name": "🌟星星┃直连",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+    },
     
-       
+     {
+      "key": "Wexsaohuo",
+      "name": "🔥火火┃直连",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+    },
+        {
+      "key": "Wexxiongdiys",
+      "name": "👬基友┃App",
+      "type": 3,
+      "api": "csp_Wexxiongdiys",
+      "searchable": 1,
+      "changeable": 1,
+     "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+    },
       {
       "key": "酷影视",
       "name": "🐦酷影┃App",
@@ -312,7 +356,8 @@
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
 	    },
  
-
+  {"key":"T4-douban",
+     "name":"🌻非凡┃php","type":4,"api":"http://5724mpp.adminbk.com/T4-feifan.php"},
     {
       "key": "小点",
       "name": "💥小点┃多线",
@@ -396,6 +441,7 @@
 			"api": "csp_Pptv",
 			"jar": "https://cloud.lxweb.cn/f/6LDEiw/Pptv.jar"
 		    },
+		
 		{"key":"csp_XBPQ_123影院",
          "name":"️🍟123┃影院 ",
          "type":3,
@@ -792,6 +838,17 @@
           "quickSearch":1,
           "filterable":1,
           "ext":"https://d.kstore.space/download/4344/XQYHiker/xyqha_土豆阿里.json",
+          "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+       
+           },  
+          {"key":"csp_XYQHikerAL_ed3000",
+          "name":"🐰ed30┃阿里",
+          "type":3,
+          "api":"csp_XYQHikerAL",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "ext":"http://yun3695.my3v.work/ed3000.json",
           "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
        
            },  
@@ -2117,6 +2174,20 @@
             "filterable": 1,
             "ext": "https://d.kstore.space/download/4344/js/菜狗.js"
         },    
+        {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    
       {
      "key": "戏 曲" ,
      "name": "♈戏曲┃合集",
@@ -2146,30 +2217,31 @@
            "ext":"https://d.kstore.space/download/4344/XBPQ/MTV.json"
         },
         
-        {
-      "key": "Iktv",
-      "name": "🛰KTV┃MV",
-      "type": 3,
-      "api": "csp_Iktv",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 0,
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/netflav.jar"
-     },
-         {
-            "key": "Bili",
-            "name": "🅱哔哔┃合集",
+      
+     {
+            "key": "Iktv",
+            "name": "🎤KTV┃MV",
             "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
+            "api": "csp_WexIktv",
             "searchable": 1,
-            "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+            "jar": "https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+           
         },
+            {
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+    },
         {
          "key": "csp_XYQHiker_DJ呦呦音乐网",
          "name":"🎧呦呦┃DJ",
