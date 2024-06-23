@@ -3,7 +3,7 @@
 //本接口仅限测试之用，请勿乱传、售卖，感谢理解。
 {
     "wallpaper": "http://rihou.cc:88/壁纸",
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718523928408/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
     "lives": [
         {
             "name": "直播",
@@ -13,6 +13,7 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+           
         {
             "group": "redirect",
             "channels": [
@@ -193,70 +194,26 @@
        },
     
      
-       
-
-           {
-      "key": "文才",
-      "name": "💍熊二┃App",
+          {
+      "key": "文采",
+      "name": "💮文采┃秒播",
       "type": 3,
-      "api": "csp_Wexwencai",
+      "api": "csp_Jpys",
+      "playerType": 2,
       "searchable": 1,
-      "changeable": 1,
-     "jar" :"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fc213119cc5c6ba5c1b53fb77b9c2144"
+      "quickSearch": 1,
+      "changeable": 1
     },
-       
-        
-      
-        {
-            "key": "csp_秒播",
-            "name": "👻熊大┃App",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://cloud.lxweb.cn/f/bDzOCp/Xymz.jar",
-            "ext": {"分类": "国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
-  "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", 
-  "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
-  "数组二次截取": "list\":[&&]", 
-  "数组": "{&&}[不包含:]", 
-  "图片": "vod_pic\":\"&&\"", 
-  "标题": "vod_name\":\"&&\"", 
-  "副标题": "+vod_remarks\":\"&&\"", 
-  "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
-  "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", 
-  "搜索模式": "1", 
-  "搜索二次截取": "list\":[&&]", 
-  "搜索数组": "{&&}[不包含:]", 
-  "搜索图片": "vod_pic\"*\"&&\"", 
-  "搜索标题": "vod_name\"*\"&&\"", 
-  "搜索副标题": "type_name\":\"&&\"", 
-  "搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
-  "影片类型": "vod_class\"*\"&&\"", 
-  "导演": "vod_director\"*\"&&\"", 
-  "主演": "vod_actor\"*\"&&\"", 
-  "简介":  "vod_content\"*\"&&\"", 
-  "线路二次截取": "\"list\":[&&]", 
-  "线路数组": "<h3 class=\"title\">&&</h3>[排序:播放线路3>播放线路2>播放线路4>播放线路5>播放线路6>播放线路1>]", 
-  "线路标题": "熊大秒播+>播放线路</h3>", 
-  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", 
-  "播放二次截取": "", 
-  "播放列表": "表&&表", 
-  "播放标题": "题&&题", 
-  "播放链接": "链&&链", 
-  "嗅探词": ".m3u8", 
-  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
-  "免嗅": "0" 
-}},    
+
+    
         {
       "key": "Wexwencai",
-      "name": "🎇熊三┃App",
+      "name": "🐻熊大┃App",
       "type": 3,
       "api": "csp_Wexwencai",
       "searchable": 1,
       "changeable": 1,
-      "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
     },
        {
       "key": "Wexdiguatv",
@@ -265,7 +222,7 @@
       "api": "csp_Wexdiguatv",
       "searchable": 1,
       "changeable": 1,
-      "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
     },
         {
       "key": "Wexbaipiao",
@@ -274,7 +231,7 @@
       "api": "csp_Wexbaipiao",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
     },
     
      {
@@ -284,7 +241,7 @@
       "api": "csp_Wexsaohuo",
       "searchable": 1,
       "changeable": 1,
-      "jar":"https://cloud.lxweb.cn/f/kmLMup/wex.txt"
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718895465471/wex.txt;md5;abd7de963094093f674c391183001b3a"
     },
         {
       "key": "Wexxiongdiys",
@@ -358,7 +315,16 @@
  
   {"key":"T4-douban",
      "name":"🌻非凡┃php","type":4,"api":"http://5724mpp.adminbk.com/T4-feifan.php"},
-    {
+ 
+  {
+            "key": "追剧兔",
+            "name": "🐰追剧┃兔崽",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://www.zjtu.one/api.php/app/"
+        },
+    
+     {
       "key": "小点",
       "name": "💥小点┃多线",
       "type": 3,
@@ -377,7 +343,15 @@
        "changeable":1,
        "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c"
      },
-     
+     { "key": "剧刷网",  
+        "name": "🍓剧刷┃影视", 
+        "type": 3,
+        "api": "csp_XBPQ", 
+       "jar":"https://cloud.lxweb.cn/f/xj28TM/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+       "ext": {"简介":"bottom-detail\"&&</p>",
+       "分类url":"https://www.shuajuw.com/Show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+      "分类":"国产剧$13#电视剧$2#电影$1#动漫$4#动画电影$22"
+       }},
     {"key":"js兄弟影视",
      "name":"🐮兄弟┃影视",
      "type":3,
@@ -391,7 +365,36 @@
      "api":"https://4344.kstore.space/libs/drpy2.min.js",
      "ext":"https://4344.kstore.space/js/nangua.js"
       },
-    
+       {"key":"js8号影视",
+     "name":"🌻八号┃影院",
+     "type":3,
+     "api":"https://4344.kstore.space/libs/drpy2.min.js",
+     "ext":"https://4344.kstore.space/js/8号影院.js"
+      },
+        {"key":"js七新影视",
+     "name":"💐七新┃影视",
+     "type":3,
+     "api":"https://4344.kstore.space/libs/drpy2.min.js",
+     "ext":"https://4344.kstore.space/js/七新电影网.js"
+      },
+        {"key":"js麻雀影视",
+     "name":"🐦麻雀┃影视",
+     "type":3,
+     "api":"https://4344.kstore.space/libs/drpy2.min.js",
+     "ext":"https://4344.kstore.space/js/麻雀视频【优】.js"
+      },
+        {"key":"最新4k影视",
+     "name":"🐮4 k┃影视",
+     "type":3,
+     "api":"https://4344.kstore.space/libs/drpy2.min.js",
+     "ext":"https://4344.kstore.space/js/%E6%9C%80%E6%96%B04K.js"
+      },
+        {"key":"js文才影视",
+     "name":"🐘文才┃影院",
+     "type":3,
+     "api":"https://4344.kstore.space/libs/drpy2.min.js",
+     "ext":"https://4344.kstore.space/js/文才.js"
+      },
 		{
 			"key": "热播库",
 			"name": "🔥热播┃BPQ",
@@ -1556,7 +1559,7 @@
  
      {
       "key": "csp_极速影视",
-      "name": "🎸极速┃影视",
+      "name": "??极速┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1807,7 +1810,7 @@
     }},
      
         {"key":"看片狂人",
-         "name":"💃看片┃狂人",
+         "name":"??看片┃狂人",
          "type":3,
          "api":"csp_XBPQ",
          "searchable":1,

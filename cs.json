@@ -669,22 +669,23 @@
               "api":"csp_NiNi",
               "searchable":1,
               "ext":"1",
-              "jar":"https://7114.kstore.space/jar/18.jar"
+              "jar":"https://cloud.lxweb.cn/f/KGgOUX/pg.jar"
                },
                {"key":"Jable",
                 "name":"🏆Jable🪜",
                 "type":3,
                 "api":"csp_Jable",
                 "searchable":1,
-                "jar":"https://7114.kstore.space/jar/18.jar"
+                "jar":"https://cloud.lxweb.cn/f/KGgOUX/pg.jar"
                   },
          {"key":"MissAV",
          "name":"🏆MissAV🪜",
           "type":3,
           "api":"csp_Miss",
           "searchable":1,
-         "jar":"https://7114.kstore.space/jar/18.jar"
+         "jar":"https://cloud.lxweb.cn/f/KGgOUX/pg.jar"
          },
+       
          {
            "key": "csp_888",
            "name": "🏆8888🪜",
