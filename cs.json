@@ -20,17 +20,7 @@
        "api":"https://4344.kstore.space/js/直转点.js",
        "ext":"https://4344.kstore.space/yun/直转点.txt"
         },
-        {
-            "key": "hipy_js_直播转点播",
-            "name": "直播转点播(drpy_t3)",
-            "type": 3,
-            "api": "https://4344.kstore.space/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 1,
-            "ext": "https://4344.kstore.space/js/直播转点播【合】.js?type=url&params=https://4344.kstore.space/yun/live2cms.json"
-        },
+      
           {
       "key": "XMVideo",
       "name": "🏆熊猫视频",
