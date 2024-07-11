@@ -19,7 +19,19 @@
        "api":"https://4344.kstore.space/js/直转点.js",
        "ext":"https://4344.kstore.space/yun/直转点.txt"
         },
-      
+        {
+            "key": "黄色仓",
+            "name": "🏆暑假快练",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://cloud.lxweb.cn/f/xj28TM/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+            "ext": {
+           "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
+          "分类值":"1&2&3&4&8&9&10&7&15&21&22",
+              "直接播放":"1",
+                "分类url": "http://aanhsck.cc/vodtype/{cateId}-{catePg}.html"
+            }
+        },
           {
       "key": "XMVideo",
       "name": "🏆熊猫视频",
@@ -31,13 +43,14 @@
          },
             {
       "key": "Cg51",
-      "name": "🏆吃瓜 | 图密√",
+      "name": "🏆51吃瓜",
       "type": 3,
       "api": "csp_Cg51",
       "searchable": 1,
       "filterable": 1,
       "jar":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar"
          },
+
          {
             "key": "csp_xBPQ_香蕉AV解说",
             "name": "🏆香蕉解说",
@@ -992,16 +1005,14 @@
        "name":"🏆黄涩仓库",
        "type":3,
        "api":"csp_XBPQ",
-       "filterable": 0,
-       "style":{"type":"rect","ratio":1.333},
+       "filterable": 1,
+          "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
        "ext":{
-       "分类url":"http://hsck676.cc/vodtype/{cateId}-{catePg}.html",
+       "分类url":"http://aanhsck.cc/vodtype/{cateId}-{catePg}.html",
        "直接播放":"1",
        "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
-       "分类值":"1&2&3&4&8&9&10&7&15&21&22"},
-       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
-       "style":{"type":"rect","ratio":1.33
-         }},
+       "分类值":"1&2&3&4&8&9&10&7&15&21&22"}
+       },
        
 
        
