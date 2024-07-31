@@ -82,14 +82,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_蚂蚁",
-      "name": "🐜蚂蚁┃App",
-      "type": 1,
-      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
-      "filterable": 1
-     },
+    
           {"key": "Wexsaohuo",
       "name": "🔥火火┃直连",
       "type": 3,
@@ -130,15 +123,59 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
     },
-     {
-      "key": "Wexdiguatv",
-      "name": "⛷️追剧┃App",
+      {
+      "key": "柠檬",
+      "name": "🍊柠檬┃App",
       "type": 3,
-      "api": "csp_Wexdiguatv",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719585978165/wex.txt;md5;bddf772185748da4ce3f57fa889e3c96"
-      },
+      "api": "csp_Nmvod",
+      "playerType": 1,
+       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
+      "key": "月亮",
+      "name": "🌙月亮┃App",
+      "type": 3,
+      "api": "csp_Ylys",
+      "playerType": 1,
+       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar"
+    },
+     {
+      "key": "追剧",
+      "name": "🚄追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "daHR0cDovL3oua3pqdHYuY29t",
+      "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar"
+    },
+    {
+      "key": "木叶",
+      "name": "🍃木叶┃App",
+      "type": 3,
+      "api": "csp_Muye",
+      "playerType": 1,
+       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
+      "ext": "cMS4wLjd8aHR0cDovLzExMy40NS4xMzUuMTAwOjEyMzU2fDEyY2ExNTNjfDEwMDd8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+    },
+    {
+      "key": "繁荣",
+      "name": "💝繁荣┃App",
+      "type": 3,
+      "api": "csp_Frong",
+      "playerType": 1,
+       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
+      "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+    },
+    {
+      "key": "现代",
+      "name": "🍟现代┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
+      "ext": "OMS4wLjB8aHR0cDovL2FwcC5icm92b2QudG9wfDQzNmE0NjI5fDIwMjQwNDI4fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDA5ZWUzNTE2YzFjYThlZDE="
+    },
      {"key":"csp_AppMr",
        "name":"👻明明┃App",
        "type":3,
@@ -157,9 +194,56 @@
         "changeable":1,
         "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c"
         },
-
-         
-      
+       {
+            "key": "ai-ceshixia客",
+            "name": "🔰侠客┃App",
+            "type": 3,
+            "jar": "https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "语言": "中文",
+                "请求头": "手机",
+                "地址发布页": "",
+                "主页url": "http://ys.xkys.link/",
+                "分类url": "http://ys.xkys.link/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}/",
+              "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+            }
+        },
+       {
+            "key": "君离(SP)",
+            "name": "💖君离┃App",
+            "type": 3,
+            "api": "csp_AppSk",
+            "jar": "http://tipu.xjqxz.top/box/sk.jar",
+            "ext": {
+                "SiteUrl": "http://sk.jlzj.xyz/app.txt",
+                "域名匹配": [
+                    ".txt",
+                    ".json"
+                ],
+                "授权验证": true,
+                "验证信息": {
+                    "Post": {
+                        "sign": "a758867cf74d7677533ec6c82f15ca76"
+                    },
+                    "BuildCk": true,
+                    "CkFormat": "%s##5483##%s##ckzmbc",
+                    "AesKey": "ygcnbcrvaervztmw",
+                    "AesIv": "1212164105143708"
+                },
+                "AesKey": "ygcnbclnqzsmebxd",
+                "AesIv": "8249692684143708",
+                "线路排序": "APP专用->APP备用->APP备用2->APP备用3->APP备用4->APP备用5",
+                "分类过滤": [
+                    "短剧",
+                    "体育",
+                    "解说"
+                ]
+            }
+        },
 
           	{
 			"key": "河马",
@@ -2076,6 +2160,8 @@
                 "链接": "",
                 "简介": "",
                 "搜索模式": "1",
+                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+                "过滤词": "/cdn.physvod.com/#116.m3u8",
                 "搜索url": "https://www.panghuys.com/phsch.html?wd={wd}",
                 "搜索数组": "module-card-item-class&&</span></a",
                 "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
