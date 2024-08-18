@@ -82,15 +82,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    
-          {"key": "Wexsaohuo",
-      "name": "🔥火火┃直连",
-      "type": 3,
-      "api": "csp_Wexsaohuo",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719585978165/wex.txt;md5;bddf772185748da4ce3f57fa889e3c96"
-    },
+  
      {
       "key": "https://leshizy.com/",
       "name": "🎡乐视┃App",
@@ -149,15 +141,7 @@
       "ext": "daHR0cDovL3oua3pqdHYuY29t",
       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar"
     },
-    {
-      "key": "木叶",
-      "name": "🍃木叶┃App",
-      "type": 3,
-      "api": "csp_Muye",
-      "playerType": 1,
-       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
-      "ext": "cMS4wLjd8aHR0cDovLzExMy40NS4xMzUuMTAwOjEyMzU2fDEyY2ExNTNjfDEwMDd8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
-    },
+   
     {
       "key": "繁荣",
       "name": "💝繁荣┃App",
@@ -167,15 +151,7 @@
        "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
       "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
     },
-    {
-      "key": "现代",
-      "name": "🍟现代┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
-      "ext": "OMS4wLjB8aHR0cDovL2FwcC5icm92b2QudG9wfDQzNmE0NjI5fDIwMjQwNDI4fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDA5ZWUzNTE2YzFjYThlZDE="
-    },
+  
      {"key":"csp_AppMr",
        "name":"👻明明┃App",
        "type":3,
@@ -254,16 +230,7 @@
 			 "jar":"https://gitee.com/xiongdada3695/jar/raw/main/yun.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "https://m.jmzp.net.cn"
 		},
-    {
-      "key": "Wexxiongdiys",
-      "name": "👬基友┃App",
-      "type": 3,
-      "api": "csp_Wexxiongdiys",
-      "searchable": 1,
-      "changeable": 1,
-     "jar":"https://ipv4wp.axzzz.top:9503/f/11Ptl/wex.txt"
-      },
-         
+  
             {
       "key": "天天弹幕",
       "name": "🌻天天┃App",
@@ -388,6 +355,70 @@
         "导演": "导演：&&</div>",
         "主演": "主演：&&</div>",
         "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>"
+      }
+    },
+    {
+      "key": "huohuo",
+      "name": "💥火火┃独家",
+      "type": 3,
+       "jar":"https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
+      "api": "csp_SaoHuo"
+      },
+          {
+      "key": "csp_全网",
+      "name": "🥣全网┃独家",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "jar":"https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
+      "ext": "https://888.qkw1.cc/"
+    },
+      {
+      "key": "csp_Nkdy",
+      "name": "🥛耐看┃APP",
+      "type": 3,
+      "api": "csp_Nkdy",
+      "playerType": 2,
+      "jar":"https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
+      "filterable": 1
+    },
+      {
+      "key": "小米",
+      "name": "📺米米┃独家",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$okhttp/4.1.0",
+        "主页url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=list&ac=detail",
+        "分类url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
+        "搜索模式": "1",
+        "搜索url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}",
+        "数组二次截取": "",
+        "数组": "{\"v&&}",
+        "图片": "vod_pic\":\"&&\"",
+        "标题": "vod_name\":\"&&\"",
+        "副标题": "vod_remarks\":\"&&\"",
+        "链接": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
+        "影片类型": "vod_class\"*\"&&\"",
+        "影片年代": "vod_year\"*\"&&\"",
+        "影片地区": "vod_area\"*\"&&\"",
+        "导演": "vod_director\"*\"&&\"",
+        "主演": "vod_actor\"*\"&&\"",
+        "简介": "vod_remarks\"*\"&&\"+vod_content\"*\"&&\"",
+        "线路二次截取": "",
+        "线路数组": "\"vod_play_from\":&&,",
+        "线路标题": "\"&&\"",
+        "播放二次截取": "",
+        "播放数组": "vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]",
+        "播放列表": ":&&,",
+        "播放标题": "\"&&$",
+        "跳转解析": "nmys$http://pan.qiaoji8.com/tvbox/neibu.php?url=#BBA$http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+        "播放链接": "解析+$&&\"",
+        "跳转播放链接": "url\"*\"&&\""
       }
     },
        {
@@ -880,19 +911,7 @@
       "分类": "短剧$6#电影$1#连续剧$2#动漫$3#综艺$4#记录片$5"
       }
     },
-      {
-      "key": "桃子影视",
-      "name": "🌺桃子┃秒播",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "playerType":1,
-      "api": "csp_XBPQ",
-       "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
-      "ext": {"分类url": "https://taozi007.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html;;RCm",    "嗅探词": ".m3u8#.mp4#.m3u8?#tjdownload.pan", 
-      "分类": "短剧$5#电影$1#连续剧$2#动漫$3#综艺$4"
-      }
-    },
+      
         {"key": "OK",
          "name": "💖O K┃O K",
          "type": 3,
@@ -958,8 +977,8 @@
           "filterable":1,
           "ext":"https://wp.szyyds.cn/f/r1lil/%E5%88%9D%E6%81%8B%E4%BA%91%20.json",
           "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
-         },
-     
+         }, 
+      
                 {
 			"key": "双黄",
 			"name": "🥚蛋蛋┃剧院",
@@ -977,20 +996,39 @@
 				"搜索数组": "<li class=\"active clearfix&&</li"
 			}
 		},
-		
-		
-		
-         {"key":"csp_XYQHikerAL_土豆阿里",
-          "name":"💂土豆┃阿里",
-          "type":3,
-          "api":"csp_XYQHikerAL",
-          "searchable":1,
-          "quickSearch":1,
-          "filterable":1,
-          "ext":"https://d.kstore.space/download/4344/XQYHiker/xyqha_土豆阿里.json",
-          "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
-       
-           },  
+		    {
+      "key": "csp_zhizhen",
+      "name": "🌹至臻┃4K4K",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar":"https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
+      "ext": {
+        "site_urls": [
+          "http://mihdr.top",
+          "http://mpanso.com"
+        ]
+      }
+    },
+    {
+      "key": "csp_wanou",
+      "name": "🧸玩偶┃自建4K",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "jar":"https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
+      "ext": {
+        "site_urls": [
+          "https://wogg.xxooo.cf/",
+          "https://www.wogg.bf/",
+          "https://www.wogg.net/"
+        ]
+      }
+    },
+
           {"key":"csp_XYQHikerAL_ed3000",
           "name":"🐰ed30┃阿里",
           "type":3,
@@ -1002,41 +1040,7 @@
           "jar":"https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
        
            },  
-         {
-      "key": "csp_XYQHikerAL_云盘资源",
-      "name": "🌻云盘┃资源",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/云盘资源.json",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
-    },
-    {
-      "key": "csp_XYQHiker_影搜",
-      "name": "💺影搜┃云盘",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://4344.kstore.space/XQYHiker/影搜.json",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
-        },
-          
-        
-        {"key":"秒搜",
-          "name":"📀秒搜┃网盘",
-          "type":3,
-          "api":"csp_MiaoSou",
-           "timeout":60, 
-           "ext":"https://d.kstore.space/download/4344/libs/tokenm.json","jar": "https://cloud.lxweb.cn/f/KGgOUX/pg.jar",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
+     
 		  {
       "key": "348",
       "name": "🎇348┃蓝光",
@@ -1099,40 +1103,7 @@
            "线路数组":"data-target=&&</li>",
           "分类url":"https://www.yingzhazha.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"   
           }},
-          
- 
-        
-  
-         {"key":"️玩我哥哥",
-          "name":"❤️玩我┃哥哥",
-          "type":3,
-          "api":"csp_XYQHikerAL",
-          "searchable":1,
-          "quickSearch":1,
-         "filterable":1,
-         "ext":"https://d.kstore.space/download/4344/XQYHiker/玩我哥哥.json",
-         "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
-         },
-         {"key":"️玩你老哥",
-          "name":"❤️玩你┃老哥",
-          "type":3,
-          "api":"csp_XYQHikerAL",
-          "searchable":1,
-          "quickSearch":1,
-          "filterable":1,
-          "ext":"https://d.kstore.space/download/4344/XQYHiker/玩你老哥.json",
-          "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
-        },
-        {"key":"️搜索4",
-         "name":"❤️搜索┃4 K",
-         "type":3,
-         "api":"csp_XYQHiker",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "ext":"https://ghproxy.net/https://raw.githubusercontent.com/yun3695/XYQHiker/main/搜索4k.json",
-         "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"
-          },
+      
      {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "📀玩偶┃哥哥",
