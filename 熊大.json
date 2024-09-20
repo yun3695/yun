@@ -94,14 +94,7 @@
        "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
-    {
-      "key": "月亮",
-      "name": "🌙月亮┃App",
-      "type": 3,
-      "api": "csp_Ylys",
-      "playerType": 1,
-       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar"
-    },
+   
      {
       "key": "追剧",
       "name": "🚄追剧┃App",
@@ -109,18 +102,18 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "daHR0cDovL3oua3pqdHYuY29t",
-      "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar"
+      "jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
     },
-   
-    {
-      "key": "繁荣",
-      "name": "💝繁荣┃App",
+     {
+      "key": "木叶",
+      "name": "🍃木叶┃App",
       "type": 3,
-      "api": "csp_Frong",
+      "api": "csp_Muye",
       "playerType": 1,
-       "jar":"https://pan.beecld.com/f/nn5sG/fix24726.jar",
-      "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
+        "jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
     },
+
   
      {"key":"csp_AppMr",
        "name":"👻明明┃App",
@@ -340,6 +333,7 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": {
         "主页url": "https://www.hkybqufgh.com/",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "简介": "</label>&&</div>",
         "嗅探词": "m3u8",
         "影片类型": "tags\">&&director\">",
@@ -368,9 +362,10 @@
       "type": 3,
       "api": "csp_XBPQ",
       "changeable": 0,
-      "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://ipv4wp.axzzz.top:9503/f/bo7PtO/xmxbpq.txt",
       "ext": {
         "主页url": "http://www.cfkj86.com",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "简介": "</label>&&</div>",
         "嗅探词": "m3u8",
         "影片类型": "tags\">&&director\">",
@@ -393,6 +388,38 @@
         "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
       }
     },
+     {
+      "key": "爱影院",
+      "name": "🌷爱电┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "changeable": 0,
+      "jar":"https://ipv4wp.axzzz.top:9503/f/bo7PtO/xmxbpq.txt",
+      "ext": {
+        "主页url": "https://www.gs4x7nq4.com/",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "简介": "</label>&&</div>",
+        "嗅探词": "m3u8",
+        "影片类型": "tags\">&&director\">",
+        "影片状态": "bottom\">&&</div>",
+        "二次截取": "videoList\":\\[&&\\]",
+        "数组": "{&&}",
+        "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+        "标题": "vodName\":\"&&\"",
+        "副标题": "vodRemarks\":\"&&\"",
+        "链接": "https://www.gs4x7nq4.com/detail/+vodId\":&&,",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "线路标题": "爱电影",
+        "播放数组": "listitem\">&&info\">",
+        "播放列表": "<a&&</a>",
+        "倒序": "否",
+        "搜索url": "https://www.gs4x7nq4.com/vod/search/{wd}",
+        "搜索副标题": "class=\"boottom\"*<div>&&</div",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "分类url": "https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+      }
+    },
        {
 		"key": "drpy_365",
 		"name": " 📡365┃影视",
@@ -402,9 +429,9 @@
 	    },
  
   {"key":"T4-douban",
-     "name":"🌻非凡┃php","type":4,"api":"http://5724mpp.adminbk.com/T4-feifan.php"},
+     "name":"🌻非凡┃php","type":4,"api":"http://5724mpp.mon.pw/T4-feifan.php"},
       {"key":"t4-ibaopian",
-     "name":"🌺宝片┃php","type":4,"api":"http://5724mpp.adminbk.com/t4-ibaopian.php"},
+     "name":"🌺宝片┃php","type":4,"api":"http://5724mpp.mon.pw/t4-ibaopian.php"},
    
    
  {
