@@ -153,7 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	 "ext": "http://yun3695.my3v.work/XBPQ/麻豆映画.json"
+	 "ext": "https://4344.kstore.space/XBPQ/麻豆映画.json"
         },
  
 
@@ -1261,6 +1261,17 @@
 			"order_num": 0,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/dr_py/main/小女18[密].js"
 		},
+		{
+			"key": "hipy_js_含羞草",
+			"name": "🏆含羞草",
+			"type": 3,
+			"api": "https://4344.kstore.space/libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://4344.kstore.space/js/含羞草kz.js"
+		},
 		
 		{
 			"key": "hipy_js乐草",
@@ -1708,7 +1719,7 @@
 	"cms.qdwght.com"
     ],
   "wallpaper": "https://yydsys.top/bg.php","warningText":"使用本接口前，请务必刷新",
-    "spider": "https://pan.beecld.com/f/WDlc4/Yoursmile.jar"
+    "spider": "https://ipv4wp.axzzz.top:9503/f/0mvfl/Yoursmile.jar"
  
      
 }
