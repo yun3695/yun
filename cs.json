@@ -281,19 +281,7 @@
         {"n":"超清三级","v":"/cq/2k-chaoqingsanji"},
         {"n":"SM另类","v":"/cq/2k-SMlinglei"},
         {"n":"欧美AV","v":"/cq/2k-oumei"}]}]}}},
- {
-            "key": "php_madou",
-            "name": "🏆麻豆php",
-            "type": 4,
-            "api": "https://demobe.serv00.net/madou.php",
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-              }
-        },
+
        
      {"key":"富二代",
       "name":"🏆富二代",
@@ -574,14 +562,7 @@
        },
 
            
-       {"key": "AV線上看",
-        "name": "🏆AV線上看",
-        "type": 1,
-        "api": "https://c.mdvod.cc/api.php/provide/vod",
-        "searchable": 1,
-        "quickSearch": 1, 
-        "filterable": 0
-       },    
+
        {"key":"老色逼资源站",
         "name":"🏆老色逼",
         "type":1,
@@ -810,20 +791,7 @@
             }
         },
           
-         {"key":"国产",
-       "name":"🏆顶级国产",
-       "type":3,
-       "api":"csp_XBPQ",
-       "filterable": 0,
-         "ext":{
-          "请求头": "手机",
-            "站名": "顶级国产",
-     
-           "主页url": "https://aov15w.qoqavideo6.sbs/aovaov/",
-        "分类url":"https://aov15w.qoqavideo6.sbs/vodtype/{cateId}-{catePg}/",
-        "分类":"国产$1#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$143#日本有码$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"},
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968"
-      },   
+    
             {"key":"射了么https://shelm1.xyz",
        "name":"🏆射了么",
        "type":3,
@@ -883,21 +851,7 @@
        }},
      
     
-          {"key":"欢迎光临//https://www.aimi18.xyz",
-       "name":"🏆欢淫光临",
-       "type":3,
-       "api":"csp_XBPQ",
-       "filterable": 0,
-       "style":{"type":"rect","ratio":1.333},
-       "ext":{"分类url":"https://h520.huanygl16.top/vodshow/{cateId}--------{catePg}---.html",
-        "播放数组":"<div class=\"play-btn\">&&/div>",
-       "分类":"国产传媒&麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&兔子先生&国产剧情&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&糖心Vlog&萝莉社&性视界&必射精选&国产视频&中文字幕&国产传媒& 日本有码 &日本无码&欧美无码&强奸乱伦&制服诱惑&精品资源&
-       国产主播&激情动漫&明星换脸&抖阴视频&女优明星&网曝黑料&伦理三级&AV解说&特色仓库&SM调教&萝莉少女&极品媚黑&女同性恋&网红头条&人妖系列&韩国主播&VR视角&富二代区&国产精品&福利姬&三级字幕&主播大秀&抖阴视频&国模私拍&女神学生&91Porn&网曝事件&美熟少妇&娇妻素人&空姐模特&国产乱伦&自慰群交&野合车震&职场同事&国产名人&
-       中文字幕&无码中文&强奸中文&巨乳中文&乱伦中文&制服中文&人妻中文&调教中文&出轨中文",
-       "分类值":"1&21&22&23&24&25&26&27&30&2&31&32&33&34&35&37&38&39&3&40&41&42&43&44&45&46&47&4&48&49&50&51&52&53&54&55&5&56&57&58&59&60&61&62&63&13&126&127&128&129&130&131&133&160&14&134&135&136&137&138&139&140&141&15&144&145&146&147&148&149&150&151" },
-      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
-       "style":{"type":"rect","ratio":1.33
-       }},
+        
    
            {"key":"PWXXX.com",
        "name":"🏆PWXXX",
@@ -912,21 +866,7 @@
        "jar":"https://ipv4wp.axzzz.top:9503/f/onbfG/fan.txt",
       "style":{"type":"rect","ratio":1.33
        }},
-       {"key":"PLMM",
-       "name":"🏆漂亮妹妹",
-       "type":3,
-       "api":"csp_XBPQ",
-       "filterable": 0,
-       "style":{"type":"rect","ratio":1.333},
-       "ext":{"主页url":"https://aoole.obb-plmm1wtt.xyz/mmmm/",
-       "分类url":"https://aoole.obb-plmm1wtt.xyz/vodtype/{cateId}-{catePg}/",
-       "直接播放":"1",
-        "分类":"国产情色&AV解说&国产传媒&亚洲伦理&剧情动漫&AI换脸&偷拍偷窥&主播直播&制服黑丝&重口激情&中文字幕&日本有码&日本无码&强奸乱伦&萝莉少女&激情动漫&女同性恋&抖阴视频&网曝黑料&网红头条&欧美无码&极品媚黑&女优明星",
-       "分类值":"4&158&166&147&161&148&177&35&52&109&168&169&170&172&175&178&133&155&164&162&171&165&174" },
-       "jar":"https://ipv4wp.axzzz.top:9503/f/onbfG/fan.txt",
-      "style":{"type":"rect","ratio":1.33
-       }},
-      
+  
       {"key":"狗连女视频//https://gouln.xyz",
        "name":"🏆go男女",
        "type":3,
