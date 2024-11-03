@@ -37,6 +37,15 @@
      "quickSearch": 0,
      "filterable": 0
         },
+        {
+      "key": "配置",
+      "name": "⚙️网盘┃配置",
+      "type": 3,
+      "changeable": 0,
+      "searchable": 0,
+      "api": "csp_Config",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729170900999/1007.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73"
+    },
              {
 			"key": "网盘配置",
 			"name": "🎓配置 ┃中心",
@@ -96,19 +105,11 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 1,
-       "jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1",
+       "jar":"https://ipv4wp.axzzz.top:9503/f/g1a8fE/fix24726.jar;md5;df8acabafdc6aa94c11ecb3da25188e1",
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
    
-     {
-      "key": "追剧",
-      "name": "🚄追剧┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "daHR0cDovL3oua3pqdHYuY29t",
-      "jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
-    },
+   
      {
       "key": "木叶",
       "name": "🍃木叶┃App",
@@ -188,27 +189,7 @@
             "ext": "https://www.kuin.one/api.php/app/"
         },
       
-      
-    {"key":"Aiku",
-     "name":"👑聚合┃影视",
-     "type":1,
-      "api":"http://caiji.ikum.cc:8099/api.php/provide/vod/?ac=list",
-      "playUrl":"https://www.yemu.xyz/?url=",
-       "searchable":1,
-      "filterable":1,
-      "quickSearch":1
-       },
-    
-      {
-      "key": "酷影视",
-      "name": "🐦酷影┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-      },
+   
          
         {
       "key": "南瓜",
@@ -221,6 +202,35 @@
       "quickSearch": 1,
       "changeable": 1
     },   
+      {
+      "key": "GUAZI",
+      "name": "🥁瓜子┃App",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_Gz360",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729170900999/1007.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73"
+    },
+       {
+      "key": "摘星",
+      "name": "✨星星┃App",
+      "type": 3,
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
+    },
+    {
+      "key": "csp_yunbo",
+      "name": "☁️️云播┃App",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "playerType": 2,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729170900999/1007.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73"
+    },
        {
             "key": "csp_少泽资源",
             "name": "🌺少泽┃资源",
@@ -231,8 +241,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        
-        },
+         },
 		    {
                 "key": "XBPQ_剧圈圈",
                 "name": "🍣剧圈┃App",
@@ -279,15 +288,7 @@
       "jar":"https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
       "ext": "https://888.qkw1.cc/"
     },
-      {
-      "key": "csp_Nkdy",
-      "name": "🥛耐看┃APP",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "playerType": 2,
-      "jar":"https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
-      "filterable": 1
-    },
+     
       {
       "key": "小米",
       "name": "📺米米┃独家",
@@ -448,7 +449,16 @@
             "filterable": 1
         },
         
-
+        {
+        "key": "黑木耳资源",
+        "name": "☔木耳┃资源",
+        "type": 1,
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    
+       },
     
     
 
@@ -586,13 +596,7 @@
      "api":"https://4344.kstore.space/libs/drpy2.min.js",
      "ext":"https://4344.kstore.space/js/七新电影网.js"
       },
-        {"key":"js麻雀影视",
-     "name":"🐦麻雀┃影视",
-     "type":3,
-     "api":"https://4344.kstore.space/libs/drpy2.min.js",
-     "ext":"https://4344.kstore.space/js/麻雀视频【优】.js"
-      },
-
+   
        
 		
              {"key":"rebo",
@@ -673,49 +677,7 @@
 				"跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
 			}
 		},
-		{
-			"key": "黑狐",
-			"name": "🦊黑狐┃BPQ",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"playerType": "2",
-			"api": "csp_XBPQ",
-			"ext": {
-				"站名": "黑狐影院",
-				"主页url": "http://fagmn.com",
-				"数组": "class=\"stui-vodlist__box\"&&</a",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-				"过滤词": "/hls/#php",
-				"副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-				"搜索模式": "1",
-				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索链接": "href=\"&&\"",
-				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索后缀": "/view/",
-				"线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-				"线路标题": ">&&<",
-				"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-				"状态": "地区：&&</p>",
-				"导演": "导演：&&</p>",
-				"主演": "主演：&&</p>",
-				"简介": "简介：&&</div>",
-				"播放列表": "<a&&/a>",
-				"播放标题": ">&&<",
-				"播放链接": "href=\"&&\"",
-				"免嗅": "0",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-			}
-		},         
+		
      {
       "key": "麦田影视",
       "name": "🍵麦田┃影视",
@@ -767,17 +729,7 @@
          }},
 		
 		
-     {
-        "key": "黑木耳资源",
-        "name": "☔木耳┃资源",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-       },
+   
         
 		   
               {
@@ -977,17 +929,23 @@
 				"搜索数组": "<li class=\"active clearfix&&</li"
 			}
 		},
-		
-     
-    {
-      "key": "Wexmuougg",
-      "name": "💓木偶┃4K💓",
+		   {
+      "key": "csp_zhizhen",
+      "name": "🌹至臻┃盘聚",
       "type": 3,
-      "api": "csp_Wexmuougg",
-      "searchable": 1,
-      "changeable": 1,
-         "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724044790616/wex.txt;md5;b734924d1467c0cb9aedb4e0d179984a"
+      "api": "csp_Duopan",
+      "changeable": 0,
+      "filterable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729170900999/1007.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
+      "ext": {
+        "site_urls": [
+          "http://mpanso.com",
+          "http://mihdr.top"
+        ]
+      }
     },
+     
+  
        {
       "key": "Sso",
       "name": "🐌盘他┃三盘",
@@ -1077,7 +1035,7 @@
      
 		  {
       "key": "348",
-      "name": "🎇348┃蓝光",
+      "name": "💝348┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
@@ -1710,13 +1668,7 @@
             }
         },
          
- {
-      "key": "少泽影客（APP）",
-      "name": "🌃少泽┃影客",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://yk.shaozeyy.com/api.php/app/"
-   },
+
   
                   {"key":"drpy_js_落攻阁",
                    "name":"🌵攻阁┃影视",
