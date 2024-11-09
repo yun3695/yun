@@ -845,7 +845,7 @@ HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 
 💘｜️全网IPV6,#genre#
-//黑龙江
+
 
 CCTV1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
@@ -875,7 +875,15 @@ CCTV14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?cha
 CCTV15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
 CCTV16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016
 CCTV17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
+美亚电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec0b5d0c67e83cbd41127b2f8793f1011cc99c8da305b06e70aa7730300e4a8d6e13ae
 
+天映经典,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec09472b65ca06bd6e287b178e93f1011cc99c8da305b06e70aa7730300e4a8d6e13ae
+
+CHC影迷电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166ef17b26a10790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
+
+CHC动作电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
+
+CHC家庭电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166fc10bf6f0a790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69
 超级综艺,http://[2409:8087:74d9:21::6]/270000001128/9900000019/index.m3u8
 超级电影,http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8
 超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
