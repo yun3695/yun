@@ -768,24 +768,36 @@ HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 
 💘｜️全网IPV6,#genre#
-CCTV-1_综合,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
-CCTV-2_财经,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
-CCTV-3_综艺,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
-CCTV-4_中文国际,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
-CCTV-5_体育,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
-CCTV-5+_体育赛事,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
-CCTV-6_电影,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
-CCTV-7_国防军事,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3
-CCTV-8_电视剧,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
-CCTV-9_纪录,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
-CCTV-10_科教,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
-CCTV-11_戏曲,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
-CCTV-12_社会与法,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3
-CCTV-13_新闻,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
-CCTV-14_少儿,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
-CCTV-15_音乐,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
-CCTV-16_奥林匹克,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
-CCTV-17_农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$5.5M_1080
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$4.0M_1080
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$1.6M_720
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$5.5M_1080
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$1.6M_720
+CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$4.0M_1080
+CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$4.0M_1080
+CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226007/index.m3u8$1.6M_720
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$4.0M_1080
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8$4.0M_1080
+CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$4.0M_1080
+CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8$4.0M_1080
+CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8$4.1M_1080
+CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$4.0M_1080
+CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8$4.0M_1080
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8$5.5M_1080
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$4.0M_1080
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$5.5M_1080
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$1.6M_720
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8$5.5M_1080
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$4.0M_1080
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$5.5M_1080
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8$4.1M_1080
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8$1.6M_720
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8$5.5M_1080
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$4.0M_1080
+CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8$5.5M_1080
+CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$1.6M_720
+CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080
+CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$4.0M_1080
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
@@ -820,28 +832,7 @@ CCTV-17_农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/10000000050
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
-CETV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-CETV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
-超级综艺,http://[2409:8087:74d9:21::6]/270000001128/9900000019/index.m3u8
-超级电影,http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8
-超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
-欢乐剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000091/index.m3u8
-动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
-黑莓电影,http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8
-精品大剧,http://[2409:8087:74d9:21::6]/270000001128/9900000100/index.m3u8
-精品体育,http://[2409:8087:74d9:21::6]/270000001128/9900000102/index.m3u8
-古装剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000105/index.m3u8
-爱情喜剧,http://[2409:8087:74d9:21::6]/270000001128/9900000104/index.m3u8
-军事评论,http://[2409:8087:74d9:21::6]/270000001128/9900000110/index.m3u8
-农业致富,http://[2409:8087:74d9:21::6]/270000001128/9900000111/index.m3u8
-金牌综艺,http://[2409:8087:74d9:21::6]/270000001128/9900000112/index.m3u8
-惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
-熊大剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8
-职业剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000116/index.m3u8
-精彩蓝球,http://[2409:8087:74d9:21::6]/270000001128/9900000118/index.m3u8
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
-广东珠江,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
