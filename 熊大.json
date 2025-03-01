@@ -127,79 +127,21 @@
       "name": "🍊柠檬┃App",
       "type": 3,
       "api": "csp_Nmvod",
-      "playerType": 1,
-       "jar":"https://ipv4wp.axzzz.top:9503/f/g1a8fE/fix24726.jar;md5;df8acabafdc6aa94c11ecb3da25188e1",
+      "playerType": 2,
+       "jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;df8acabafdc6aa94c11ecb3da25188e1",
       "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
    
-   
-    {
-      "key": "csp_AppDrama",
-      "name": "👓视觉┃秒播",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "csp_AppDrama",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-      "ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U="
-    },
-    
-    {
-      "key": "csp_DUODUO",
-      "name": "💨多多┃秒播",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "csp_MiTuApp",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-    },
+   {"key":"热门",
+     "name":"🌷热门┃秒播",
+     "type":3,
+     "api":"csp_TTian",
+     "playerType":1,
+    "ext":"caHR0cDovL3YucmJvdHYuY24=",
+    "jar":"http://tv.laohu.cool/lh250119.jar;md5;b1735a02c05a81130905711c9aecc581"
+     },
   
-      {
-      "key": "木头",
-      "name": "🔰木头┃App",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=",
-      "jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"
-    },
-    {
-      "key": "世纪",
-      "name": "🚄视觉┃App",
-      "type": 3,
-      "api": "csp_Drama",
-      "playerType": 1,
-      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw==",
-      "jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"
-    },
-         {
-      "key": "荣荣",
-      "name": "🎎人人┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "jar":"http://cdn.qiaoji8.com/fix250118.jar;md5;a55a9c35e5f1022c9a56a5f433201fb7",
-      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
-    },
- {
-      "key": "雨滴",
-      "name": "💍雨滴┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48",
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-    },
 
-            {
-      "key": "优质",
-      "name": "🍞优质┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48",
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
-    },
-  
   {
       "key": "蝴蝶",
       "name": "🍣蝴蝶┃App",
@@ -220,18 +162,17 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://pan.7so.top/f/6Wn3Fy/danmu.jar"
+      "jar": "https://cloud.7so.top/f/lDXHX/danmu.jar"
     },
    
-     {
-      "key": "csp_Xlys",
-      "name": "🍤哔嘀┃App",
-      "api": "csp_Xlys",
-      "searchable": 1,
+ 
+    {
+      "key": "csp_Lkdy",
+      "name": "💐来看┃App",
       "type": 3,
-      "playerType": 2,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
-      },
+      "api": "csp_Lkdy",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598"
+    },
       {
       "key": "csp_Wwys",
       "name": "👨农民┃App",
@@ -241,28 +182,9 @@
       "changeable": 0,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn/",
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598"
     },
-     {
-      "key": "csp_良人",
-      "name": "👨良人┃App",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM=",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
-    },
-      {
-      "key": "csp_麻花",
-      "name": "🥙麻花┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I=",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
-    },
+     
       {
       "key": "csp_XSX",
       "name": "👀视讯┃App",
@@ -300,14 +222,7 @@
       "api": "csp_Qiyou",
      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
     },
-      {
-      "key": "csp_Fantuan",
-      "name": "🍙饭团┃App",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_Fantuan",
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
-    },
+   
     
           {
       "key": "文采",
@@ -471,7 +386,7 @@
          "searchable":1,
          "filterable":1,
          "quickSearch":1,
-         "jar":"https://pan.7so.top/f/83ppSY/HeChengChaXiu1118.jar",
+         "jar":"https://cloud.7so.top/f/mGNiW/HeChengChaXiu1118.jar",
          "ext":  {
     "作者":"",
      "站名":"可可影视",
@@ -504,7 +419,7 @@
       "name": "🍵麦田┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {"分类url": "https://mtyy1.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",  
       "线路标题": "nbsp;&&<span",
       "图片": "data-src=\"&&\"",
@@ -517,7 +432,7 @@
                 "name": "🎐飞行┃影院",
                 "type": 3,
                 "api": "csp_XBPQ",
-                "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+                "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
                 "ext": {
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
                 "分类url": "https://www.tomato-china.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
@@ -575,7 +490,7 @@
          "searchable": 1,
          "quickSearch": 1,
          "filterable": 1,
-         "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+         "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
          "ext": {"分类url": "https://www.okys5.com/show/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2"}},
        
@@ -849,7 +764,7 @@
       "name": "💝348┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/99qlF2/XBPQ (1).jar",
+      "jar":"https://cloud.7so.top/f/o7nCv/XBPQ (1).jar",
       "ext": {
         "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
         "站名": "348电影网",
@@ -899,7 +814,7 @@
           "name": "🍁渣渣┃影院",
           "type": 3,
           "api": "csp_XBPQ",
-          "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+          "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
           "ext": {
           "分类":"电影&电视剧&综艺&动漫",
           "分类值":"1&2&3&4",
@@ -916,8 +831,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
-      "jar":  "https://mirror.ghproxy.com/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
+      "jar":  "https://ghproxy.net/raw.githubusercontent.com/yun3695/jar/main/XYQ.jar"
      
   },
   {
@@ -944,7 +859,7 @@
          "filterable": 0,
          "switchable": 0,
           "ext": "https://d.kstore.dev/download/4344/XBPQ/阿里集合.json;./http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-          "jar":"https://ipv4wp.axzzz.top:9503/f/wBeig/真心真语0204.jar"
+          "jar":"https://cloud.7so.top/f/p7nFA/真心.jar"
            },
        
 
@@ -967,7 +882,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://pan.7so.top/f/99qlF2/XBPQ(1).jar",
+      "jar":"https://cloud.7so.top/f/o7nCv/XBPQ(1).jar",
       "ext": "https://d.kstore.dev/download/4344/XBPQ/vidhub.json"
     },
         
@@ -977,7 +892,7 @@
               { "key": "魔方",
             "name": "💟魔方┃影视",
             "type": 3,
-            "jar":"https://ipv4wp.axzzz.top:9503/f/mR2hk/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+            "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
             "api": "csp_XBPQ",
             "ext": {
             "分类url": "https://www.mfys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/"}},
@@ -986,7 +901,7 @@
                 "name": "💟不休┃影视",
                 "type": 3,
                 "api": "csp_XBPQ",
-                "jar":"https://gitee.com/xiongdada3695/jar/raw/main/XBPQ(1).jar",
+                "jar":"https://cloud.7so.top/f/o7nCv/XBPQ(1).jar",
                 "ext": {
                 "线路数组":"class=\"stui-pannel__&&</div>[不包含:线路#评论]",
                 "线路标题":"class=\"title\">&&</h3>[替换:不休影视①>>不休影视①有菠菜]",
@@ -1019,7 +934,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://pan.7so.top/f/83ppSY/HeChengChaXiu1118.jar",
+      "jar":"https://cloud.7so.top/f/mGNiW/HeChengChaXiu1118.jar",
       "ext": "https://d.kstore.dev/download/4344/XBPQ/骚火影视.json"
       },
    
@@ -1030,7 +945,7 @@
          "searchable":1,
          "quickSearch":1,
          "filterable":1,
-         "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+         "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
          "ext":"https://4k4k.live/vodshow/{cateId}-{class}-------{catePg}---{year}.html"
          },
        
@@ -1041,7 +956,7 @@
          "searchable": 1, 
          "quickSearch": 1, 
          "filterable": 1, 
-         "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+         "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
          "ext": "https://gitee.com/xiongdada3695/xbpq/raw/master/圣城影视.json"
          },
          {"key":"vip超前",
@@ -1065,7 +980,7 @@
        "quickSearch":1,
       "filterable":1,
        "playerType":2,
-       "jar":"https://pan.7so.top/f/83ppSY/HeChengChaXiu1118.jar",
+       "jar":"https://cloud.7so.top/f/mGNiW/HeChengChaXiu1118.jar",
       "ext":"https://d.kstore.dev/download/4344/XBPQ/98影视.json"
       }, 
     
@@ -1074,7 +989,7 @@
       "name": "🌸电影┃小镇",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
@@ -1088,7 +1003,7 @@
           "name": "🍊金曼┃影视",
           "type": 3,
           "api": "csp_XBPQ",
-         "jar":"https://ipv4wp.axzzz.top:9503/f/Vdj5CW/最新.jar",
+         "jar":"https://cloud.7so.top/f/9O2u2/最新.jar",
           "ext": {
           "分类":"电影&电视剧&综艺&动漫",
           "分类值":"1&2&3&4",
@@ -1102,7 +1017,7 @@
        "searchable":1,
        "quickSearch":1,
       "filterable":1,
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "ext":"https://d.kstore.dev/download/4344/XBPQ/五五影视.json"
       }, 
         
@@ -1129,7 +1044,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"jar": "https://pan.7so.top/f/k2yQT5/ZZG0830.jar"
+	"jar": "https://cloud.7so.top/f/qD5hX/ZZG0830.jar"
 },
 
     {
@@ -1140,7 +1055,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://pan.7so.top/f/jYE7tR/wa.jar"
+      "jar":"https://cloud.7so.top/f/rXNt2/wa.jar"
     },
   
         
@@ -1273,7 +1188,7 @@
       "name": "💎超前┃点播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "主页url":"https://xxmsrj.com/",
       "简介":"熊大提醒您请勿相信影片中的广告，以免上当受骗！+简介：&&</li>",
@@ -1343,7 +1258,7 @@
             "name": "💔剧看┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ipv4wp.axzzz.top:9503/f/Vdj5CW/最新.jar",
+            "jar":"https://cloud.7so.top/f/9O2u2/最新.jar",
             "ext":"https://www.jukankan.me/vodtype/{cateId}-{catePg}.html"
            },   
             
@@ -1355,7 +1270,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "ext": "https://qu.ax/wcXy.json"
     },
  
@@ -1367,7 +1282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "ext": {
       "分类": "电影片$1#连续剧$2#动漫片$3#综艺片$4",
       "分类url": "https://www.shangbole.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
@@ -1425,7 +1340,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+            "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
             "ext": {
                 "分类": "电影片$23#连续剧$22#动漫片$21#综艺片$20",
                 "分类url": "https://bfys.tv/vodshow/{cateId}--{by}------{catePg}---.html",
@@ -1514,7 +1429,7 @@
             "name":"👀B站┃影视",
             "type":3,
             "api":"csp_XBPQ",
-            "jar":"https://ipv4wp.axzzz.top:9503/f/wBeig/%E7%9C%9F%E5%BF%83%E7%9C%9F%E8%AF%AD0204.jar",
+            "jar":"https://cloud.7so.top/f/9O2u2/最新.jar",
             "ext":"https://kanb.tv/Show/{cateId}K{area}K{by}K{class}KKKKK{catePg}KKK{year}.html"
        },
        
@@ -1527,7 +1442,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://pan.7so.top/f/79oEuZ/Xymz.jar",
+            "jar":"https://cloud.7so.top/f/jLOCR/Xymz.jar",
             "ext": {
                 "站名": "米爱影视",
                 "主页url": "https://www.miai9.cc/",
@@ -1562,7 +1477,7 @@
       "name": "🎏网飞┃T V",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"dy&juji&zongyi&dongman",
@@ -1574,7 +1489,7 @@
       "name": "♈开心┃影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
@@ -1588,7 +1503,7 @@
       "name": "🎡麻花┃影院",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+       "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
@@ -1596,13 +1511,13 @@
     }},
      
         {"key":"看片狂人",
-         "name":"??看片┃狂人",
+         "name":"🐎看片┃狂人",
          "type":3,
          "api":"csp_XBPQ",
          "searchable":1,
          "quickSearch":1,
          "filterable":1,
-         "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+         "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
           "ext":{"免嗅":"1",
           "副标题":"uk-position-bottom\">&&</span>",
           "简介":"以下是剧情简介：&&</div>",
@@ -1615,7 +1530,7 @@
       "name": "🌟光年┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
@@ -1631,7 +1546,7 @@
       "name": "💁次萌┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
@@ -1644,7 +1559,7 @@
       "name": "🍡追剧┃吧影",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+       "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
       "ext": {
       "分类":"电影&电视剧&综艺&动漫",
       "分类值":"1&2&3&4",
@@ -1679,7 +1594,7 @@
          "searchable":1,
          "quickSearch":1,
          "filterable":1,
-         "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+         "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
           "ext":{"分类url":"http://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html",
           "搜索url":"/vodsearch/{wd}-------------.html"
         }},
@@ -1705,7 +1620,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "api": "csp_XBPQ",
-      "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "ext": {
         "主页url": "http://www.tvyb03.com/",
         "请求头": "手机",
@@ -1771,7 +1686,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
       },
      {
       "key": "Alips",
@@ -1786,14 +1701,14 @@
         },
         {
       "key": "csp_Yisou",
-      "name": "??易搜┃4 K",
+      "name": "🍛易搜┃4 K",
       "type": 3,
       "api": "csp_Yisou",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
   {
@@ -1804,7 +1719,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
       "ext": "https://d.kstore.dev/download/4344/XQYHiker/995.json"
     },
       {
@@ -1815,7 +1730,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
       "ext": "https://d.kstore.dev/download/4344/XQYHiker/688.json"
     },
      {
@@ -1826,7 +1741,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
       "ext": "https://gitee.com/xiongdada3695/xyqhiker/raw/master/ssgo.json"
     },
 
@@ -1852,7 +1767,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "playerType": "2",
-            "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+            "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
             "ext": {
             "请求头": "手机",
               "发布页": "https://www.cdnkan.top/",
@@ -2112,7 +2027,7 @@
          "searchable": 0,
          "quickSearch": 0,
          "filterable": 0,
-         "jar":"https://pan.7so.top/f/gpABcG/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
+         "jar":"https://cloud.7so.top/f/n8JSm/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
          "ext": { "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a#.xs",
 	     "直接播放": "1","请求头": "手机",
          "分类": "轮播推荐$zonghe#音乐推荐$music#热舞推荐$dancing#脱口秀推荐$show#颜值推荐$pretty#二次元推荐$acg#体育推荐$sport",
