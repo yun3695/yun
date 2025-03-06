@@ -20,7 +20,19 @@
        "ext":"https://d.kstore.dev/download/4344/yun/直转点.txt"
         },
        
-     
+     {
+			"key": "hipy_js_乐草",
+			"name": "🏆乐草TV",
+			"type": 3,
+			"api": "https://d.kstore.dev/download/4344/libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://d.kstore.dev/download/4344/js/乐草TV.js"
+		},
+		
+		
    {
             "key": "csp_XBPQ_奶很大",
             "name": "🏆奶很大",
@@ -30,7 +42,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/h/奶很大.json"
+            "ext": "http://yun3695.my3v.work/奶很大.json"
         },   
       
        {
