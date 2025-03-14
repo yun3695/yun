@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
      {
@@ -73,6 +73,16 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
     },
     {
+      "key": "白白",
+      "name": "🐟白白┃App",
+      "type": 3,
+      "api": "csp_SbaibaiGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "天天",
       "name": "🦢天天┃App",
       "type": 3,
@@ -80,7 +90,7 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
-      {
+    {
       "key": "csp_良人",
       "name": "⚽️良人┃App",
       "type": 3,
@@ -380,8 +390,17 @@
             "filterable": 1
         },
         
-
-
+ {
+            "key": "h8",
+            "name": "🗽木耳┃资源",
+            "type": 1,
+            "api": "https://tvbot.ggff.net/api.php/tvbox",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+   
 {
       "key": "guoguo1",
       "name": "🥭金牌┃秒播",
@@ -557,7 +576,7 @@
       }
     },
 
-  {
+    {
       "key": "UC",
       "name": "🌈优汐┃搜搜",
       "type": 3,
@@ -571,16 +590,7 @@
         "pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
       }
     },
-       {
-      "key": "Sso",
-      "name": "🐌盘他┃三盘",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/盘他.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+     
        {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
@@ -594,6 +604,7 @@
         "from": "4k|auto"
       }
     },
+  
     {
       "key": "PanSearch",
       "name": "🙀盘Se┃阿狸",
@@ -684,19 +695,7 @@
         "from": "4k|auto"
       }
     },
-    {
-      "key": "Aliso",
-      "name": "🙀盘搜┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
+   
     {
       "key": "YiSo",
       "name": "😹易搜┃阿狸",
@@ -1517,6 +1516,32 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
+    },    {
+      "key": "wx",
+      "name": "🌸微信┃饭饭",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "fan",
+      "name": "🌷导航┃饭饭",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "cc",
+      "name": "🌺勿信┃广告",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
     }
    
   ],
