@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743153331519/f0328a.txt;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
      {
@@ -62,16 +62,7 @@
       "changeable": 1,
       "ext": "https://www.czzyvideo.com/"
     },
-            {
-      "key": "神车",
-      "name": "🍙圣诚┃App",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
-    },
+       
     {
       "key": "白白",
       "name": "🐟白白┃App",
@@ -82,6 +73,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
+        {
+      "key": "萌米",
+      "name": "👀萌米┃App",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+    },
     {
       "key": "天天",
       "name": "🦢天天┃App",
@@ -90,15 +92,14 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
-    {
-      "key": "csp_良人",
-      "name": "⚽️良人┃App",
+  {
+      "key": "csp_Wwys",
+      "name": "👨农民┃App",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppGetV2Guard",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
+      "api": "csp_WwysGuard",
+      "ext": "https://www.wwgz.cn",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99"
+      
     },
      {
       "key": "苹果",
@@ -111,16 +112,7 @@
       "changeable": 1
     },
    
-    {
-      "key": "木星",
-      "name": "🌞木星┃App",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
-    },
+   
     
    
    {"key":"热门",
@@ -154,9 +146,7 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598"
     },
     
-     
-   
-     {
+         {
       "key": "欢视",
       "name": "👓欢视┃App",
       "type": 3,
@@ -165,27 +155,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-    },
-    {
-      "key": "可可",
-      "name": "👻可可┃App",
-      "type": 3,
-      "api": "csp_KekysGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-       {
-      "key": "csp_qiyou",
-      "name": "🎮骑友┃App",
-      "type": 3,
-      "api": "csp_Qiyou",
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
+      "ext": "uqGL1bNENExT9fFAy5mE5qU="
     },
    
-    
+  
+    {
+      "key": "兄弟",
+      "name": "🍊水星┃App",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
+    },
+       
           {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -206,14 +190,7 @@
     "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;11c25fa40e0b5e7797c51e92ed8d2a54",
     "ext":"https://alicliimg.clewm.net/342/790/68790342/17405848473943ab1aa06a0bb25eb570d8adda73bd3d11740584845.jpg"
      },
-     {"key":"米兔",
-      "name":"🐰米兔｜App",
-      "type":3,
-      "searchable":1,
-      "quickSearch":1,
-      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;11c25fa40e0b5e7797c51e92ed8d2a54",
-      "api":"csp_MiTuApp"
-        },
+
       {
        "key":"移动",
        "name":"💡移动｜App",
@@ -1570,6 +1547,16 @@
             "name": "快2",
             "type": 0,
             "url": "https://www.kuaikanys.net/jiexi/jiekou-1/?url="
+        },
+        {
+            "name": "-云海（忙果4k）",
+            "type": 1,
+            "url": "http://json.o0a.cn/api/?key=339cfc2bebf5ca413c05fbbb85200006&url="
+        },
+        {
+            "name": "黄金解析",
+            "type": 1,
+            "url": "http://jx.hjfggzs.top/api/?key=N7nzVPhLPAyanUim8N&url="
         },
      {"name":"BL","type":0,"url":"https://vip.bljiex.com/?v="},
     {"name": "-咸鱼-","type": 0, "url": "https://jx.xyflv.com/?url="},

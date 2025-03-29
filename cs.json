@@ -77,7 +77,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://yun3695.my3v.work/奶很大.json"
+            "ext": "http://jy356.jmcs.cf/奶很大.json"
         },   
       
        {
@@ -125,9 +125,30 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://yun3695.my3v.work/疯猫av.json"
+            "ext": "http://jy356.jmcs.cf/疯猫av.json"
         },
-
+            {
+            "key": "csp_XBPQ_花从",
+            "name": "🏆花丛视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+  
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://jy356.jmcs.cf/花丛视频.json"
+        },
+         {
+            "key": "csp_XBPQ_妻",
+            "name": "🏆仕妻舞",
+            "type": 3,
+            "api": "csp_XBPQ",
+  
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://jy356.jmcs.cf/仕妻舞.json"
+        },
         {
             "key": "我爱AV",
             "name": "🏆我爱AV社区",
